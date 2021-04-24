@@ -1,6 +1,8 @@
-<img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
+# UNDER CONSTRUCTION FOR THE NEXT WEEK OR TWO - TODAY IS APRIL 24, 2021
+**--------------------------------------------------**
 
-# UNDER CONSTRUCTION FOR THE NEXT WEEK OR TWO - TODAY IS APRIL 24, 2021 **
+
+<img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
 
 # My Task Time Tracker
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
