@@ -1,5 +1,7 @@
 <img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
 
+# UNDER CONSTRUCTION FOR THE NEXT WEEK OR TWO - TODAY IS APRIL 24, 2021 **
+
 # My Task Time Tracker
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
@@ -43,9 +45,8 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
  - <a href="#reports">5. "Reports" Worksheet</a>
  - <a href="#import">6. "Upgrade/Import" Worksheet</a>
  - <a href="#about">7. "About" Worksheet</a>
- - <a href="#exploratoryTesting">8. Exploratory Testing</a>
- - <a href="#advancedTopics">9. Advanced Tips & Tricks</a>
- - <a href="#wrapup">10. Wrap Up</a>
+ - <a href="#advancedTopics">8. Advanced Tips & Tricks</a>
+ - <a href="#wrapup">9. Wrap Up</a>
 
 
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"> </a>
