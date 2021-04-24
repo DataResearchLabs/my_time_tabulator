@@ -37,10 +37,11 @@
 
 **Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
 <br>
+<br>
 
 
 ### Q5: Why was the data and application not split into separate .accdb files?
-**A**: Yep, used to do that.   Not needed so much anymore because on close the Access database file auto-compacts itself (avoiding the bloating and eventual corruption that used to be so prevalent).  Users will not be in monkeying with code, and the few that do should already know about the occasional need to run Access with /decompile switch to clean code.<br>
+**A: Not as important as it once was.**  Yep, used to do that.   Less important now though because on closing, the Access database file auto-compacts itself (avoiding the bloating and eventual corruption that used to be so prevalent).  Users will not be in monkeying with code, and the few that do should already know about the occasional need to run Access with /decompile switch to clean code.<br>
 So it was a tradeoff decision.  The simplicity of a single file meant not having to reply to help requests when a split database folder moved, or an upgrade occurred, etc.  10-20 years ago I used to have a loader app file that would check for updates, and app file that ran the code, and a data file that was separate and repair/compact-able.  Did not need all that overhead for this small, simple tool.<br>
 <br>
 
