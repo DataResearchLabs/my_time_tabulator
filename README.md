@@ -18,3 +18,22 @@
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 
 
+
+<kbd>
+  <img src="img/img_01_showcase_app_features.png" width="634">
+</kbd>
+<br>
+<br>
+<br>
+
+
+***If you like this tool, be sure to click the "Star" button above in GitHub.***
+
+
+***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
+
+<br>
+
+
+
+
