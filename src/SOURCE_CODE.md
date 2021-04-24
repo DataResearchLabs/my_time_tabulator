@@ -16,6 +16,7 @@ A2: Press and hold the Shift-key down while you open (before double-clicking) th
 A: Sure, I could dump the form code, module code, report code, table create sql, table populate sql, query sql, etc. into nice files in clean folders...but to what point?  It's not like Access has easy GitHub plugins.  It's just easier to access the source code the way Access natively meant for it to be accessed.  It would be a lot of extra time and hassle for each minor release to maintain the text file dumps for no purpose other than for a handful of folks to browse it online.  If you really want to browse the source code, just download the ACCDB file.  Apologies if you do not have Access 365 to view it though.<br>
 <br>
 <br>
+<a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
 A: Because Microsoft Access is simple...<br>
 1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
