@@ -20,7 +20,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 
 <kbd>
-  <img src="img/img_01_showcase_app_features.png" width="800">
+  <img src="img/img_01_showcase_app_features.png" width="1123">
 </kbd>
 <br>
 <br>
