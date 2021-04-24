@@ -17,10 +17,23 @@ A: Sure, I could dump the form code, module code, report code, table create sql,
 <br>
 <br>
 **Q: Why on earth would you code something in Access?**<br>
-A1: Because it is faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app.<br>
-A2: Because most corporate offices provide Microsoft Access.<br>
-A3: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
-A4: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
-A5: Because it is the simplest, easiest, lowest tech solution I could build<br>
-A6: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
-A7: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)
+A: Because Microsfot Access is simple...<br>
+1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
+2: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
+3: Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
+4: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
+5: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
+6: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
+7: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
+8: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
+9: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+<br>
+**Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
+<br>
+<br>
+**Q: Why was the data and application not split into separate .accdb files?**<br>
+A: Yep, used to do that.   Not needed so much anymore because on close the Access database file auto-compacts itself (avoiding the bloating and eventual corruption that used to be so prevalent).  Users will not be in monekying with code, and the few that do should already know about the occasional need to run Access with /decompile switch to clean code.<br>
+So it was a tradeoff decision.  The simplicity of a single file meant not having to reply to help requests when a split database folder moved, or an upgrade occurred, etc.  10-20 years ago I used to have a loader app file that would check for updates, and app file that ran the code, and a data file that was separate and repair/compact-able.  Did not need all that overhead for this small, simple tool.<br>
+
+
+
