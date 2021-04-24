@@ -4,30 +4,31 @@
 
 
 ### Q1: Where is the Source Code?
-A: The source code is part of the download.  It is built into the MyTaskTimeTracker.accdb<br>
+**A**: The source code is part of the download.  It is built into the MyTaskTimeTracker.accdb<br>
 <br>
 <br>
 ### Q2: How do I access the Source Code?
-A1: Close all forms.  Press F1 key.<br>
-A2: Press and hold the Shift-key down while you open (before double-clicking) the MyTaskTimeTracker.accdb. Doing this will preserve full menus, unhide all source objects and give you complete access to all source code and objects.<br>
+**A**: As follows:
+* **1**: Close all forms.  Press F1 key.<br>
+* **2**: Press and hold the Shift-key down while you open (before double-clicking) the MyTaskTimeTracker.accdb. Doing this will preserve full menus, unhide all source objects and give you complete access to all source code and objects.<br>
 <br>
 <br>
 ### Q3: Why don't you dump the Source Code into text files here in GitHub?
-A: Sure, I could dump the form code, module code, report code, table create sql, table populate sql, query sql, etc. into nice files in clean folders...but to what point?  It's not like Access has easy GitHub plugins.  It's just easier to access the source code the way Access natively meant for it to be accessed.  It would be a lot of extra time and hassle for each minor release to maintain the text file dumps for no purpose other than for a handful of folks to browse it online.  If you really want to browse the source code, just download the ACCDB file.  Apologies if you do not have Access 365 to view it though.<br>
+**A**: Sure, I could dump the form code, module code, report code, table create sql, table populate sql, query sql, etc. into nice files in clean folders...but to what point?  It's not like Access has easy GitHub plugins.  It's just easier to access the source code the way Access natively meant for it to be accessed.  It would be a lot of extra time and hassle for each minor release to maintain the text file dumps for no purpose other than for a handful of folks to browse it online.  If you really want to browse the source code, just download the ACCDB file.  Apologies if you do not have Access 365 to view it though.<br>
 <br>
 <br>
 <a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
-A: Because Microsoft Access is simple...<br>
-1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
-2: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
-3: Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
-4: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
-5: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
-6: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
-7: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
-8: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
-9: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+**A**: Because Microsoft Access is simple...<br>
+  1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
+  2: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
+  3: Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
+  4: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
+  5: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
+  6: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
+  7: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
+  8: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
+  9: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
 <br>
 **Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
 <br>
