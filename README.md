@@ -14,5 +14,5 @@
 * **How**: Just a simple, low-tech, organized approach at rolling up your time into meaninful, actionable reports.<br>
 * **Where**: On a desktop or laptop.  Requires Microsoft Access 365.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
 * **Source Code**: is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
-* **License**: Creative Commons.  Free to use.  Free to copy.  Free to alter.  Free to distribute.  Am happy you find this tool useful.<br>
+* **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.  Am happy you find this tool useful.<br>
 
