@@ -11,12 +11,6 @@
 <br>
 
 
-<ins>**V4.02.44309ab -  2021.04.23**</ins><br>
-1. DEFECT - At Import Old Data, do not copy NA category, project, and task...those are part of the default template values<br>
-2. DEFECT - Good grief.  Typo cause System Properties not to populate on Import upgrade.  Fixed it.<br>
-<br>
-
-
 <ins>**V4.02.44309  -  2021.04.23**</ins><br>
 1. CHANGE - Rename form caption on main time entry to "My Task Time Tracker"<br>
 2. DEFECT - If MoveFirst or MoveLast day and DB is empty, was getting invalud use of null but expected msgbox error intercept.<br>
@@ -33,6 +27,9 @@
 13. DEFECT: "RFPR_Ref_Project" had to be renamed to "REJ_PRJ_Projects" everywhere<br>
 14. DEFECT: LIB_Files was missing Option Explicit<br>
 15. DEFECT: App icon and DRL logo were all large when pasted in; this made overall file size 2x larger than should be<br>
+16. DEFECT - At Import Old Data, do not copy NA category, project, and task...those are part of the default template values<br>
+17. DEFECT - Good grief.  Typo cause System Properties not to populate on Import upgrade.  Fixed it.<br>
+<br>
 <br>
 
 
