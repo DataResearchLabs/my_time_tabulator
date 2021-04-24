@@ -10,8 +10,9 @@
 
 ### Q2: How do I access the Source Code?
 **A**: As follows:
-* **1**: Close all forms.  Press F1 key.<br>
-* **2**: Press and hold the Shift-key down while you open (before double-clicking) the MyTaskTimeTracker.accdb. Doing this will preserve full menus, unhide all source objects and give you complete access to all source code and objects.<br>
+* **Method 1**: Close all forms.  Press F1 key.<br>
+**- OR -**
+* **Method 2**: Press and hold the Shift-key down while you open (before double-clicking) the MyTaskTimeTracker.accdb. Doing this will preserve full menus, unhide all source objects and give you complete access to all source code and objects.<br>
 <br>
 
 
@@ -23,15 +24,15 @@
 <a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
 **A**: Because Microsoft Access is simple...<br>
-* 1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
-* 2: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
-* 3: Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
-* 4: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
-* 5: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
-* 6: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
-* 7: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
-* 8: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
-* 9: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+* Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
+* Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
+* Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
+* Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
+* Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
+* Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
+* Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
+* Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
+* Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
 
 
 **Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
