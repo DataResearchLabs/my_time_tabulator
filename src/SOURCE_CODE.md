@@ -17,7 +17,7 @@ A: Sure, I could dump the form code, module code, report code, table create sql,
 <br>
 <br>
 ### Q4: Why on earth would you code something in Access?
-A: Because Microsfot Access is simple...<br>
+A: Because Microsoft Access is simple...<br>
 1: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
 2: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
 3: Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
