@@ -17,22 +17,22 @@
 
 
 ### Q3: Why don't you dump the Source Code into text files here in GitHub?
-**A**: Sure, I could dump the form code, module code, report code, table create sql, table populate sql, query sql, etc. into nice files in clean folders...but to what point?  It's not like Access has easy GitHub plugins.  It's just easier to access the source code the way Access natively meant for it to be accessed.  It would be a lot of extra time and hassle for each minor release to maintain the text file dumps for no purpose other than for a handful of folks to browse it online.  If you really want to browse the source code, just download the ACCDB file.  Apologies if you do not have Access 365 to view it though.<br>
+**A: Too much effort, too little benefit.**  Sure, I could dump the form code, module code, report code, table create sql, table populate sql, query sql, etc. into nice files in clean folders...but to what point?  Access does not play nicely with soure control since it is not stored as individual text files.  It's just easier to access the source code the way Access natively meant for it to be accessed.<br>
 <br>
 
 
 <a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
 **A**: Because Microsoft Access is simple...<br>
-* Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
-* Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
-* Because it is usually already on every desktop (most corporate offices provide Microsoft Access)<br>
-* Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
-* Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
-* Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
-* Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
-* Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
-* Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+* **Rapid Development**: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
+* **Less Code**: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
+* **Already On Desktops**: Because it is usually already on every corporate desktop (most large companies provide Microsoft Access as aprt of the Office suite)<br>
+* **No Budget Battle**: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
+* **No Security Battle**: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
+* **No Dependencies**: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
+* **Democratization**: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
+* **Long Life**: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
+* **Low Maintenance**: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
 
 
 **Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
