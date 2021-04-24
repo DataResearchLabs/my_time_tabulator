@@ -1,5 +1,6 @@
-# UNDER CONSTRUCTION FOR THE NEXT WEEK OR TWO - TODAY IS APRIL 24, 2021
-**--------------------------------------------------**
+# UNDER CONSTRUCTION FOR THE NEXT WEEK OR TWO <br>
+## TODAY IS APRIL 24, 2021
+----------------------------------------------------------------------------------------------------
 
 
 <img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
