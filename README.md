@@ -7,6 +7,12 @@
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
 
 
-A free lean task time tracker with a simple UI and several reports.  Requires Microsoft Access 365.  Code is open-source.
+* **What**: A free, lean task and time tracker with a simple user interface and several reports.<br>
+* **When**: Use it daily.  Use it consistently.  It literally only takes 3 to 4 minutes per day.<br>
+* **Who**: Built as a standalone tool for individual contributors.<br>
+* **Why**: <br>
+* **How**: No code.  Minimal formulas.  Just simple, low-tech, organized worksheets.  Easy for you to adopt and evolve.<br>
+* **Where**: On a desktop or laptop.  Requires Microsoft Access 365.  Yep, it is a VBA application, [read hear for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
+* **Source Code**: is open-source (just close all forms and press F11 to access, OR hold down the Shift-key when you open the application).
+* **License**: Creative Commons.  Free to use.  Free to copy.  Free to alter.  Free to distribute.  Am happy you find this tool useful.<br>
 
-Coming soon (code is mostly completed, add a few last minute cleanup features, then need to put in a few weeks of heavy documentation and training videos as I find time evenings and weekends).
