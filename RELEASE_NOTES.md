@@ -19,15 +19,16 @@
 4. DEFECT - Category and Project drop downs had faulty wiring to db names.  Was not properly working on Task Edit screen.<br>
 5. DEFECT - Project dropdown on Task Edit screen at every row is bad design, conflicting with the overarching project dropdown at top of screen.  Grayed out and pushed to right the Project dropdown at each data entry row.<br>
 6. DEFECT - When Task Edit screen loads, is not properly defaulting project dropdown to first or last value in list<br>
-7. DEFECT - Default task "--BERAK--" was set to IsClosed = "N".  Needed to change to "NA"<br>
+7. DEFECT - Default task "--BREAK--" was set to IsClosed = "N".  Needed to change to "NA"<br>
 8. DEFECT - Time card is empty despite data for the week if you run it from a day containing no data.  Fix = msgbox warning with instructions.<br>
 9. DEFECT - Filter detail screen table name mappings were broken.  Corrected metadata in table REF_FFL_xxxx<br>
-10. DEFECT - If you click binocular to enable drop down, but then click off drop down, you can never get back to the text box to enter a new name.   FIX: Drop instruction text.  Simplify buttons by changing binocular into "Find Filter" and moving it to bottom toolbar next to Test SQL, move drop down there too.  Click Find, dropdown appears, select from dropdown and form moves to that filter and dropdown disappears.<br>
-11. DEFECT: Run Report with filter having single quotes errored.  Intercept the single quotes and replace with two single quotes to escape them when writing out to properties table<br>
-12. CHANGE: Flipped alternating backcolor to slightly off-white.  Light blue was too much.<br>
-13. DEFECT: "RFPR_Ref_Project" had to be renamed to "REJ_PRJ_Projects" everywhere<br>
-14. DEFECT: LIB_Files was missing Option Explicit<br>
-15. DEFECT: App icon and DRL logo were all large when pasted in; this made overall file size 2x larger than should be<br>
+10. DEFECT - If you click binocular to enable drop down, but then click off drop down, you can never get back to the text box to enter a new name.<br>
+FIX: Drop instruction text.  Simplify buttons by changing binocular into "Find Filter" and moving it to bottom toolbar next to Test SQL, move drop down there too.  Click Find, dropdown appears, select from dropdown and form moves to that filter and dropdown disappears.<br>
+11. DEFECT - Run Report with filter having single quotes errored.  Intercept the single quotes and replace with two single quotes to escape them when writing out to properties table<br>
+12. CHANGE - Flipped alternating backcolor to slightly off-white.  Light blue was too much.<br>
+13. DEFECT - "RFPR_Ref_Project" had to be renamed to "REJ_PRJ_Projects" everywhere<br>
+14. DEFECT - LIB_Files was missing Option Explicit<br>
+15. DEFECT - App icon and DRL logo were all large when pasted in; this made overall file size 2x larger than should be<br>
 16. DEFECT - At Import Old Data, do not copy NA category, project, and task...those are part of the default template values<br>
 17. DEFECT - Good grief.  Typo cause System Properties not to populate on Import upgrade.  Fixed it.<br>
 <br>
