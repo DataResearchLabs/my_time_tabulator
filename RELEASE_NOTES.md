@@ -8,6 +8,7 @@
 2. DEFECT - Set AutoResize = On at forms S08 and S04 because occasionally got in a state of funk where a black empty hole existed on right side of form where vertical scrollbar should go.<br>
 3. CHANGE - Turn warnings off when importing old tables in, so not need to click Ok / ignore 20 times.<br>
 4. CHANGE - When main form loads, disable the Import button unless all appropriate tables are blank. Isolate check code into new shared function.<br>
+5. DEFECT - Report "R05 - Time Card" sorted by Task Name so easier to read, flows smoother left-to-right, top-to-botttom<br>
 <br>
 
 
