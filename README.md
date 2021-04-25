@@ -17,7 +17,7 @@
 * **Who**: Built as a standalone tool for individual contributors.<br>
 * **Why**: Rollup your time for better estimates, for better performance review discussions, to help optimize where effort gets focused, or just to set expectations for how long a complex thought-work-task takes.<br>
 * **How**: Simple, low-tech, minimalist data entry that rolls up your time and tasks into meaningful, actionable reports.<br>
-* **Where**: On a desktop or laptop.  Requires Microsoft Access 365.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
+* **Where**: On a desktop or laptop.  **Requires Microsoft Access 365**.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
 * **Source Code**: is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
@@ -64,10 +64,10 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
   - Sell your work story...because nobody else is going to do it for you.<br>
 
 4. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
-  - Green Light: What you're hired to do<br>
-  - Yellow Light: What can be delegated<br>
-  - Orange Light: Important, but not what you were hired to do<br>
-  - Red Light: Wasting time, nice-to-have but not need-to-have<br>
+  - Green Light: What you were hired to do<br>
+  - Yellow Light: What can be delegated or packaged for a peer<br>
+  - Orange Light: What may be important, but not what you were hired to do<br>
+  - Red Light: What wastes time, not what you were hired to do<br>
   Then roll it all up every week to analyze and adjust.<br>
   Besides, wouldn't it be nice to identify activities that are misusing or even wasting your time?<br>
   If you can show that 60% of your week is meetings, it becomes much easier to make the case to curtail them.<br>
@@ -76,7 +76,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 5. **Scope Creep**: When you monitor where your time is going, you can quickly show the impact of scope creep and course correct earlier<br>
 
-6. **Happiness**: If you are grinding away focussing 100% fo your time on critical tasks with no 5% or 10% creative slow-down time, then you are likely on a path to burn-out.  Use these metrics to make the case for saying "No" more frequently, or to ask for a little bit of R&D time.<br>
+6. **Happiness**: If you are grinding away focusing 100% fo your time on critical tasks with no 5% or 10% creative slow-down time, then you are likely on a path to burn-out.  Use these metrics to make the case for saying "No" more frequently, or to ask for a little bit of R&D time.<br>
 
 7. **Tee-Shirt Baselines**: Rollup project times to establish historical baselines used for preliminary estimates or to counter unrealistic project timelines.<br>
 
@@ -117,6 +117,7 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 #### 3.1 First Open / Security Notice
 The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to render "some active content disabled", meaning that VBA code will not run and thus the application will not functiona properly.  The screenshot below shows the security warning message (blue dot #1).  Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.  Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.  
 <img src="img/img_02_first_load_security_prompt.png" width="794">
+<br>
 
 
 #### 3.2 "Landing Page" = Main Form
@@ -127,19 +128,22 @@ The "landing page" that first pops up happens to also be the main page where you
 3. **Navigation**: At blue dot #3 contains buttons to move the view around to different days, or to save the current days entries or changes.  There are three left buttons and three right buttons. The "|<<" and "|>>" buttons move all the way to the end (first or last) day.  The "<<" and ">>" buttons move backward or forward one week.  The "<" and ">" buttons move backwards or forwards one day.  The 3.5" floppy disk button saves the daily entries changed below.
 4. **Task Filters**:  At blue dot #4 contains three buttons to limit what tasks show up in the TaskName dropdown lists below.  After using this tool for months, you will have any completed tasks (IsClosed="Yes") which you do not want to keep scrolling thru when selecting a task for a time span.
 5. **Daily Time Entry**: At blue dot #5 is where you enter your daily tasks and times. 
+<br>
 
 
 #### 3.3 Setup Properties
 <img align="right" src="img/img_04_edit_properties.png" width="463">
-Before you can enter any tasks and times, you will need to enter metadata.  We will start by clicking the "Properties" button to popup the "Edit Properties" dialog.  Enter your employer's name at blue dot#1, and your name at blue dot#2 (screenshot below).  These two values will show up on screens and reports.
+Before you can enter any tasks and times, you will need to enter metadata.  We will start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.  Enter your employer's name at blue dot#1, and your name at blue dot#2. Then click the [x] in upper right corner of form to close and return to the main form.  These two values will show up on screens and reports throughout the system.<br>
 
 
 #### 3.4 Setup Projects
-
+<img align="right" src="img/img_05_edit_projects.png" width="508">
+Next, click the "Projects" button to popup the "Edit Projects" dialog.  This is a simple name-value pair dialog also.  Enter Project ID's at blue dot#1, and Project Names as blue dot#2.  Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).  Continue to add projects by filling out Project ID's and Nams in the "\*" row.  Tasks (discussed alter) all rollup into projects.  There is only one level of projects, so if you need "epics", be sure to name them with a prefix abbreviation accordingly (eg: "ALPHA: (1) blah blah", "ALPHA: (2) blah blah), or something similar).  Then click the [x] in upper right corner of form to close and return to the main form.  These values show up in the Task Edit page as the drop down filter, and on many reports as a grouping, sorting, and rollup parameter.<br>
 
 
 #### 3.5 Setup Categories
-
+<img align="right" src="img/img_06_edit_categoriesX.png" width="581">
+Next, click the "Categories" button to popup the "Edit Categories" dialog.  This is a simple name-value pair dialog also.  Enter Category ID's at blue dot#1, and Category names as blue dot#2.  Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  I tend to use "OH" for Overhead, and "PROJ" for Project and Task work, and "OOO" for Out-of-Office (PTO, sick leave, volunteer events, etc.).  But, I saw an [interestnig article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as either green (good), yellow (okay, try to delegate), orange (minimize), and red (bad).  The screenshot below demos these categories.  They can be a great way of analyzing where you can claw back some time on projects, or maybe as a monthly or quarterly self-retrospective.  These values show up in the reports as grouping, sorting, and rollup parameters.<br>
 
 
 #### 3.6 Setup Tasks
