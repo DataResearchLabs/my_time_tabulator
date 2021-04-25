@@ -146,7 +146,7 @@ Next, enter some Project metadata:
 1. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
 2. **Data Entry**: Enter Project ID's at blue dot#1, and Project Names as blue dot#2.<br>
 3. **Naming**: Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
-4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
+4. **Add More**: Continue to add projects by filling out Project ID's and Names in the "\*" row.<br>
 5. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
 
 
@@ -179,6 +179,8 @@ Next, enter some Project metadata:
 
 
 #### 3.6 Setup Tasks
+Next, enter some Tasks:
+
 
 
 
