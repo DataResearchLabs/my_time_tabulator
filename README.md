@@ -59,9 +59,9 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
 
-2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"<br>
-  - Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
-  - Sell your work story...because nobody else is going to do it for you.<br>
+2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"
+    * Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
+    * Sell your work story...because nobody else is going to do it for you.<br>
 
 3. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
     * Green Light: What you were hired to do<br>
@@ -80,11 +80,21 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 7. **Tee-Shirt Baselines**: Rollup project times to establish historical baselines used for preliminary estimates or to counter unrealistic project timelines.<br>
 
-8. **Just Billable Hours?** If you are a consultant, you already track your time for billing hours, 'nuff said, right?  Not quite, because there is value beyond billing hours...and that is to slice and dice the hours, see how they rollup to projects, to categories, and how the time flows (a 40 hour task does not take 1 week, the hours ebb and flow at different rates, mingling with other tasks and priorities)<br>
+8. **Just Billable Hours?** If you are a consultant, you already track your time for billing hours, **'nuff said, right**?
+    * Not quite, because there is value beyond billing hours...<br>
+    * You can slice and dice the hours, to see how they rollup to projects, to categories, and how the time flows<br>
+  (a 40 hour task does not take 1 week, the hours ebb and flow at different rates, mingling with other tasks and priorities)<br>
 
 9. **Time Boxing**: If you work on agile projects and need to time box certain activities, how do you know when you've hit the limit?<br>
 
-10. **Dial in Your Estimates**: to improve your pipeline.  The construction industry has this down in spades -- how much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah .... yeah, check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their hundreds s of thousands of ways to estimate anything construction related.  Then look at the laughable lack of estimating depth in the software industry.  It all starts with tracking costs AND TIME.  In construction, labor is 50% of the cost.  In software, labor is like 90%+ of the cost; therefore, tracking time is even more important.<br>  
+10. **Dial in Your Estimates**: to improve your pipeline.  
+    * The construction industry has this down in spades
+      * How much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah<br>
+      * Check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their thousands of ways to estimate anything construction related.<br>
+      * This accuracy in construction estimates exists only because they track costs AND TIME.
+    * Now compare that against the laughable lack of estimating accuracy and depth in the software industry.<br>
+      * In construction, labor is ~50% of the cost.<br>
+      * In software, labor is like 90%+ of the cost; therefore, tracking time is even more important...yet it is rarely done.<br>  
 <br>
 
 
