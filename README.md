@@ -130,8 +130,8 @@ The "landing page" that first pops up happens to also be the main page where you
 
 
 #### 3.3 Setup Properties
-Before you can enter any tasks and times, you will need to enter metadata.  We will start by clicking the "Properties" button to popup the "Edit Properties" dialog.  Enter your employer's name at blue dot#1, and your name at blue dot#2 (screenshot below).  These two values will show up on screens and reports.
 <img align="right" src="img/img_04_edit_properties.png" width="463">
+Before you can enter any tasks and times, you will need to enter metadata.  We will start by clicking the "Properties" button to popup the "Edit Properties" dialog.  Enter your employer's name at blue dot#1, and your name at blue dot#2 (screenshot below).  These two values will show up on screens and reports.
 
 
 #### 3.4 Setup Projects
