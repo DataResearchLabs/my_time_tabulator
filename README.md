@@ -187,8 +187,16 @@ Next, enter some Project metadata:
 * You may occasionally add or change categories over time, but they generally are set once and rarely change after that.<br>
 * Use whatever categorization convention you want.  They are intended to be a way of analyzing where you can claw back some time on projects, or maybe as a monthly or quarterly self-retrospective.<br>
 * This field used to be named WBS for Work-Breakdown-Structure with hieararchy, but was simplified over the years to just a single level list.<br>
-* I tend to use "**OH**" for Overhead / or "**MTG**" for Meetings, and "**PROJ**" for Project and Task work, and "**OOO**" for Out-of-Office (PTO, sick leave, volunteer events, etc.).<br>
-* But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as either **Green**" (good), "**Yellow**" (okay, try to delegate), "**Orange**" (minimize), and "**Red**" (bad).  The screenshot below demos these categories.<br>
+* I tend to use:
+  * **OH** for Overhead / or **MTG** for Meetings<br>
+  * **PROJ** for Project and Task work<br>
+  * **OOO** for Out-of-Office (PTO, sick leave, volunteer events, etc.)<br>
+* But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as:
+  * **Green Light** Good, What you were hired to do<br>
+  * **Yellow Light** Okay, Waht can be delegated or packaged for a peer<br>
+  * **Orange Light** Minimize, What may be important, but no what you were hired to do<br>
+  * **Red Light** Bad, What wastes time, not what you were hired to do<br>
+  The screenshot above demos these categories.<br>
 * These values show up in the reports as grouping, sorting, and rollup parameters.<br>
 * There is a hidden Category "NA" that you cannot edit or remove.  It exists for the task "--BREAK--".<br>
 <br>
