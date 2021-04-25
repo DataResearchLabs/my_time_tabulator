@@ -143,11 +143,11 @@ Before you can enter any tasks and times, you will need to enter metadata.  Star
 #### 3.4 Setup Projects
 Next, enter some Project metadata:
 <img align="right" src="img/img_05_edit_projects.png" width="508">
-4. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
-5. **Data Entry**: Enter Project ID's at blue dot#1, and Project Names as blue dot#2.<br>
-6. **Naming**: Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
-7. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
-8. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
+1. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
+2. **Data Entry**: Enter Project ID's at blue dot#1, and Project Names as blue dot#2.<br>
+3. **Naming**: Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
+4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
+5. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
 <br>
 **NOTES**:<br>
 * You will continually be adding projects over time.<br>
