@@ -55,17 +55,18 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"> </a>
 ### 1. Introduction 
 #### 1.1 Ten Reasons Why You Should Track Your Time...
-**1. Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
-**2. Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"
-    - Managers are too busy to see or understand all the great work you do...so package it up as nice, easily digestable projects, tasks, times, and dates.<br>
-    - Sell your work story...because nobody else is going to do it for you.<br>
-**3. Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
-    - Green Light: What you're hired to do<br>
-    - Yellow Light: What can be delegated<br>
-    - Orange Light: Important, but not what you were hired to do<br>
-    - Red Light: Wasting time, nice-to-have but not need-to-have<br>
-    Then roll it all up every week to analyze and adjust.<br>
-    Besides, wouldn't it be nice to identify activities that are misusing or even wasting your time?  If you can show that 60% of your week is meetings, it becomes much easier to make the case to curtail them.<br>
+**1. Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?<br>
+**2. Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"<br>
+    - Managers are too busy to see or understand all the great work you do...so package it up as nice, easily digestable projects, tasks, times, and dates.<br>
+    - Sell your work story...because nobody else is going to do it for you.<br>
+**3. Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:<br>
+    - Green Light: What you're hired to do<br>
+    - Yellow Light: What can be delegated<br>
+    - Orange Light: Important, but not what you were hired to do<br>
+    - Red Light: Wasting time, nice-to-have but not need-to-have<br>
+    Then roll it all up every week to analyze and adjust.<br>
+    Besides, wouldn't it be nice to identify activities that are misusing or even wasting your time?<br>
+    If you can show that 60% of your week is meetings, it becomes much easier to make the case to curtail them.<br>
 **4. Self-Improvement**: by comparing efficiency of similar tasks and projects over time against yourself (bad idea to compare to others, stick to improving yourself).<br>
 **5. Scope Creep**: When you monitor where your time is going, you can quickly show the impact of scope creep and course correct earlier<br>
 **6. Happiness**: If you are grinding away focussing 100% fo your time on critical tasks with no 5% or 10% creative slow-down time, then you are likely on a path to burn-out.  Use these metrics to make the case for saying "No" more frequently, or to ask for a little bit of R&D time.<br>
