@@ -133,7 +133,7 @@ The "landing page" that first pops up happens to also be the main page where you
 
 #### 3.3 Setup Properties
 <img align="right" src="img/img_04_edit_properties.png" width="463">
-Before you can enter any tasks and times, you will need to enter metadata:<br>
+Before you can enter any tasks and times, you will need to enter metadata:
 1. Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
 2. Enter your employer's name at blue dot#1, and your name at blue dot#2.<br>
 3. Then click the [x] in upper right corner of form to close and return to the main form.<br>
@@ -143,7 +143,8 @@ These two values will show up on screens and reports throughout the system.<br>
 
 #### 3.4 Setup Projects
 <img align="right" src="img/img_05_edit_projects.png" width="508">
-4. Next, click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
+Next:
+4. Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
 5. Enter Project ID's at blue dot#1, and Project Names as blue dot#2.<br>
 6. Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
 7. Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
@@ -157,6 +158,7 @@ These two values will show up on screens and reports throughout the system.<br>
 
 #### 3.5 Setup Categories
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
+Next:
 9. Next, click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
 10. Enter Category ID's at blue dot#1, and Category names as blue dot#2.<br>
 11. Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
