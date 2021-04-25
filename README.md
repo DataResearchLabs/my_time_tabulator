@@ -132,11 +132,11 @@ The "landing page" that first pops up happens to also be the main page where you
 
 
 #### 3.3 Setup Properties
-<img align="right" src="img/img_04_edit_properties.png" width="463">
 Before you can enter any tasks and times, you will need to enter metadata:
-1. Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
-2. Enter your employer's name at blue dot#1, and your name at blue dot#2.<br>
-3. Then click the [x] in upper right corner of form to close and return to the main form.<br>
+<img align="right" src="img/img_04_edit_properties.png" width="463">
+1. **Open**: Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
+2. **Data Entry**: Enter your employer's name at blue dot#1, and your name at blue dot#2.<br>
+3. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
 These two values will show up on screens and reports throughout the system.<br>
 <br>
 
