@@ -192,11 +192,10 @@ Next, enter some Project metadata:
   * **PROJ** for Project and Task work<br>
   * **OOO** for Out-of-Office (PTO, sick leave, volunteer events, etc.)<br>
 * But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as:
-  * **Green Light** Good, What you were hired to do<br>
-  * **Yellow Light** Okay, Waht can be delegated or packaged for a peer<br>
-  * **Orange Light** Minimize, What may be important, but no what you were hired to do<br>
-  * **Red Light** Bad, What wastes time, not what you were hired to do<br>
-  The screenshot above demos these categories.<br>
+  * **Green Light** - Good, What you were hired to do<br>
+  * **Yellow Light** - Okay, Waht can be delegated or packaged for a peer<br>
+  * **Orange Light** - Minimize, What may be important, but no what you were hired to do<br>
+  * **Red Light** - Bad, What wastes time, not what you were hired to do<br>
 * These values show up in the reports as grouping, sorting, and rollup parameters.<br>
 * There is a hidden Category "NA" that you cannot edit or remove.  It exists for the task "--BREAK--".<br>
 <br>
@@ -204,16 +203,21 @@ Next, enter some Project metadata:
 
 #### 3.6 Setup Tasks
 Next, enter some Tasks:<br>
-<img align"right" src="img/img_07_edit_tasks.png" width="617">
+<img align="right" src="img/img_07_edit_tasks.png" width="617">
 1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
 2. **Project**: Before you start entering task data, be sure you have selected the appropriate parent Project in the drop down at blue dot#1.<br>
 3. **Ignore**: the Task ID at blue dot#2.  This is automatically calculated as the max value + 1.  (Used to be AutoNumber, but that caused issues with importing.)<br>
 4. **TaskName**: Type in a Task Name at blue dot#3.<br>
 5. **Category**: Select a category from the drop down at blue dot#4.<br>
-6. **IsClosed**: At blue dot#5, select whether the task IsClosed "Y" or not "N" or will never have a closed status "NA" because it is an ongoing task (like recurring meeting).  Typically, when you first add a task, it will start as "Y", then several days or weeks or months later you will return to this screen to flip the IsClosed value to "N".  However, you will have a few tasks that you initially set straight away to "NA" and never return to change.<br>
-7. **ProjectID**: You typically just go with the default value in this field, because it is set based on the drop down in blue dot #1.  **However**, there may be times when you want to re-assign a task to a new project, or split tasks from one project out into two projects.  In those cases, just flip the ProjectID values for those tasks you wish to move.<br>
-8. **Add More**: Continue to add tasks by filling out cells in the "\*" row.<br>
-9. **Close**: When done adding or ediing tasks, click the "Ok" button at blue dot#7  close and return to the main form<br>
+6. **IsClosed**: At blue dot#5, select the task IsClosed status as:
+    * "N" - When you first add a new task that is not closed
+    * "Y" - Return here later to close out completed tasks with a "Y" 
+    * "NA" - For tasks that will never be closed because it is an ongoing task (like a recurring meeting).  
+    Typically, when you first add a task, it will start as "Y", then several days or weeks or months later you will return to this screen to flip the IsClosed value to "N".  However, you will have a few tasks that you initially set straight away to "NA" and never return to change.<br>
+8. **ProjectID**: You typically just go with the default value in this field, because it is set based on the drop down in blue dot #1.
+**However**, there may be times when you want to re-assign a task to a new project, or split tasks from one project out into two projects.  In those cases, just flip the ProjectID values for those tasks you wish to move.<br>
+9. **Add More**: Continue to add tasks by filling out cells in the "\*" row.<br>
+10. **Close**: When done adding or ediing tasks, click the "Ok" button at blue dot#7  close and return to the main form<br>
 
 
 **NOTES**:
