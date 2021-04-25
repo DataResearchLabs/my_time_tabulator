@@ -54,7 +54,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"> </a>
 ### 1. Introduction 
-#### 1.1 Ten Reasons Why You Should Track Your Time...
+#### 1.1 Ten Reasons Why You Should Track and Analyze Your Time...
 
 
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
@@ -88,10 +88,10 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 
 
-#### 1.2 How to Track Your Time ...
-There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there for you to use, including Clockify, TogglTrack, Harvest, Hubstaff, RescueTime, TimeDoctor, Timecamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
+#### 1.2 How Best to Track and Analyze Where Your Time Goes...
+Use a simple software tool to track and analyze your time.  There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there, including Clockify, TogglTrack, Harvest, Hubstaff, RescueTime, TimeDoctor, Timecamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
 
-So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is simple, full featured, and has several actionable reoprts to better track your time.<br>
+So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is 100% free, simple, full-featured, and emphasizes both the tracking and the analysis parts of the question.<br>
 <br>
 
 
