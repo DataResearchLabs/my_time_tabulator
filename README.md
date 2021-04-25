@@ -54,9 +54,9 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"> </a>
 ### 1. Introduction 
-#### 1.1 10 Reasons Why You Should Track Your Time...
+#### 1.1 Ten Reasons Why You Should Track Your Time...
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?<br>
-2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"  
+2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"<br>  
   - Managers are too busy to see or understand all the great work you do...so package it up as nice, easily digestable projects, tasks, times, and dates.<br>
   - Sell your work story...because nobody else is going to do it for you.<br>
 3. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:<br>
