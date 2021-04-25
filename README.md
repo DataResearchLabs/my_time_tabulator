@@ -56,11 +56,18 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 ### 1. Introduction 
 #### 1.1 Why Track Your Time?
 * **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?<br>
-* **Your Story**: It is performance review time...what did you accomplish last quarter or last year?  Managers are too busy to see or understand all the great work you do...so package it all up in a nice, easily digestable projects, tasks, times, and dates.  Sell your work story...because nobody else is going to do it for you.<br>
-* **Red Light/Green Light**: Wouldn't it be nice to tag your tasks as green light (what your hired to do), yellow light (can be delegated), orange light (important, but not what you were hired for), and red light (wasting time, nice-to-have but not need-to-have).  Then roll it all up every week to analyze and adjust.<br>
-* **Baselines**: Establish historical baselines to counter unrealistic project timelines.<br>
+* **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"  
+  - Managers are too busy to see or understand all the great work you do...so package it up as nice, easily digestable projects, tasks, times, and dates.<br>
+  - Sell your work story...because nobody else is going to do it for you.<br>
+* **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:<br>
+  - Green Light: What you're hired to do<br>
+  - Yellow Light: What can be delegated<br>
+  - Orange Light: Important, but not what you were hired to do<br>
+  - Red Light: Wasting time, nice-to-have but not need-to-have<br>
+  Then roll it all up every week to analyze and adjust.<br>
 * **Self-Improve**: by comparing efficiency of similar tasks and projects over time.<br>
-* **Just Billable Hours?** If you are a consultant, you already track your time for billing hours, 'nuff said, right?  Not quite, because there is value beyond billing hours...and that is to see slice and dice the hours, see how they rollup to projects, to categories, and how the time flows (a 40 hour task does not take 1 week, the hours ebb and flow at different rates, mingling with other tasks and priorities)<br>
+* **Tee-Shirt Baselines**: Rollup project times to establish historical baselines used for preliminary estimates or to counter unrealistic project timelines.<br>
+* **Just Billable Hours?** If you are a consultant, you already track your time for billing hours, 'nuff said, right?  Not quite, because there is value beyond billing hours...and that is to slice and dice the hours, see how they rollup to projects, to categories, and how the time flows (a 40 hour task does not take 1 week, the hours ebb and flow at different rates, mingling with other tasks and priorities)<br>
 * **Time Boxing**: If you work on agile projects and need to time box certain activities, how do you know when you've hit the limit?<br>
 * **Meetings**: Wouldn't it be nice to identify activities that are misusing or even wasting your time?  If 60% of your week is meetings, now you have the numbers to make the case to reduce them.<br>
 * **Dial in Your Estimates**: to improve your pipeline.  The construction industry has this down in spades -- how much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah .... yeah, check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their hundreds s of thousands of ways to estimate anything construction related.  Then look at the laughable lack of estimating depth in the software industry.  It all starts with tracking costs AND TIME.  In construction, labor is 50% of the cost.  In software, labor is like 90%+ of the cost; therefore, tracking time is even more important.<br>  
