@@ -155,7 +155,7 @@ Next, enter some Project metadata:
 * There is only one level of projects, so if you need "epics", be sure to name them with a prefix abbreviation accordingly (eg: "ALPHA: (1) blah blah", "ALPHA: (2) blah blah), or something similar).<br>
 * These values show up in the Task Edit page as the drop down filter, and on many reports as a grouping, sorting, and rollup parameter.<br>
 <br>
-
+ 
 
 #### 3.5 Setup Categories
 Next:
