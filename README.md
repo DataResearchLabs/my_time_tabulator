@@ -59,9 +59,9 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
 
-2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"
-  - Managers are too busy to see or understand all the great work you do...so package it up as nice, easily digestable projects, tasks, times, and dates.
-  - Sell your work story...because nobody else is going to do it for you.
+2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"<br>
+  - Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
+  - Sell your work story...because nobody else is going to do it for you.<br>
 
 4. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
   - Green Light: What you're hired to do<br>
