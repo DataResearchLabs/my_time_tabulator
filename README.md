@@ -163,8 +163,8 @@ Next, enter some Project metadata:
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
 1. **Open**: Click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
 2. **Data Entry**: Enter Category ID's at blue dot#1, and Category names as blue dot#2.<br>
-3. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
-4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
+3. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).<br>
+4. **Add More**: Continue to add categories by filling out Cateogry ID's and Names in the "\*" row.<br>
 5. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
 
 
@@ -181,8 +181,15 @@ Next, enter some Project metadata:
 #### 3.6 Setup Tasks
 Next, enter some Tasks:<br>
 <img src="img/img_07_edit_tasks.png" width="617">
-1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.
-2. 
+1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
+2. **Project**: Before you start entering task data, be sure you have selected the appropriate parent Project in the drop down at blue dot#1.<br>
+3. **Ignore**: the Task ID at blue dot#2.  This is automatically calculated as the max value + 1.  (Used to be AutoNumber, but that caused issues with importing.)<br>
+4. **TaskName**: Type in a Task Name at blue dot#3.<br>
+5. **Category**: Select a category from the drop down at blue dot#4.<br>
+6. **IsClosed**: At blue dot#5, select whether the task IsClosed "Y" or not "N" or will never have a closed status "NA" because it is an ongoing task (like recurring meeting).  Typically, when you first add a task, it will start as "Y", then several days or weeks or months later you will return to this screen to flip the IsClosed value to "N".  However, you will have a few tasks that you initially set straight away to "NA" and never return to change.<br>
+7. **ProjectID**: You typically just go with the default value in this field, because it is set based on the drop down in blue dot #1.  **However**, there may be times when you want to re-assign a task to a new project, or split tasks from one project out into two projects.  In those cases, just flip the ProjectID values for those tasks you wish to move.<br>
+8. **Add More**: Continue to add tasks by filling out cells in the "\*" row.<br>
+9. **Close**: When done adding or ediing tasks, click the "Ok" button at blue dot#7  close and return to the main form
 
 
 
