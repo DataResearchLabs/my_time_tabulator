@@ -12,11 +12,11 @@
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
 
 
-* **What**: A free, lean task and time tracker with a simple user interface and several reports.<br>
-* **When**: Use it daily.  Use it consistently.  It literally only takes 3 to 4 minutes per day.<br>
+* **What**: A free, lean task and time tracker with a simple user interface and several reports for analysis.<br>
+* **When**: Use it daily.  Use it consistently.  It literally takes just 3 to 4 minutes per day.<br>
 * **Who**: Built as a standalone tool for individual contributors.<br>
-* **Why**: Rollup your time for better scrum estimates, for discussion points at annual performance reviews, or just to set expectations for how long a complex thought-work-task takes.<br>
-* **How**: Just a simple, low-tech, organized approach at rolling up your time into meaninful, actionable reports.<br>
+* **Why**: Rollup your time for better estimates, for better performance review discussions, to help optimize where effort gets focused, or just to set expectations for how long a complex thought-work-task takes.<br>
+* **How**: Simple, low-tech, minimalist data entry that rolls up your time and tasks into meaningful, actionable reports.<br>
 * **Where**: On a desktop or laptop.  Requires Microsoft Access 365.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
 * **Source Code**: is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
