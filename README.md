@@ -89,7 +89,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 
 #### 1.2 How to Track Your Time ...
-There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there for you to use, including Clockify, TogglTrack, Havest, HubStaff, RescueTime, TmieDoctor, TimeCamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
+There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there for you to use, including Clockify, TogglTrack, Harvest, Hubstaff, RescueTime, TimeDoctor, Timecamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
 
 So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is simple, full featured, and has several actionable reoprts to better track your time.<br>
 <br>
@@ -107,7 +107,9 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 
 
 #### 2.2 Deploy
-
+1. Identify or create a "parent" folder (referred to as "$" henceforth) somewhere on your computer that is the "root" to house all the test case data files.  For example: "c:\tools\my_task_time_tracker" could be your root folder.
+2. Paste a copy of the downloaded "MyTaskTimeTracker.accdb" into the new "$" folder
+3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walkthru howto customize an icon for that shortcut.
 
 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
