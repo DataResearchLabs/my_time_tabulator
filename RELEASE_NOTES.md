@@ -3,6 +3,15 @@
 # My Task Time Tracker (MTTT) 
 
 
+<ins>**V4.02.44311  -  2021.04.25**</ins><br>
+1. DEFECT - Re-enable project selector so can move tasks<br>
+2. CHANGE - Gannt chart report character flipped back to fixed width font and solid block character and blue color<br>
+3. DEFECT - Gannt chart report bar width calc not properly reflect new bar width after widened page<br>
+4. DEFECT - Error if open Gannt chart report with no data that goes to log...and is meaningless<br>
+5. DEFECT - Replace some of the old buttons with gray backgrounds<br>
+<br>
+
+
 <ins>**V4.02.44310  -  2021.04.24**</ins><br>
 1. DEFECT - No longer import PSYS_PropertiesSystem values from old version, just use new release values<br>
 2. DEFECT - Set AutoResize = On at forms S08 and S04 because occasionally got in a state of funk where a black empty hole existed on right side of form where vertical scrollbar should go.<br>
