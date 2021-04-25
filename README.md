@@ -14,7 +14,7 @@
 
 * **What**: A free, lean task and time tracker with a simple user interface and several reports for analysis.<br>
 * **When**: Use it daily.  Use it consistently.  It literally takes just 3 to 4 minutes per day.<br>
-* **Who**: Built as a standalone tool for individual contributors.<br>
+* **Who**: Built as a standalone tool for individual contributors working from a desktop or laptop computer.<br>
 * **Why**: Rollup your time for better estimates, for better performance review discussions, to help optimize where effort gets focused, or just to set expectations for how long a complex thought-work-task takes.<br>
 * **How**: Simple, low-tech, minimalist data entry that rolls up your time and tasks into meaningful, actionable reports.<br>
 * **Where**: On a desktop or laptop.  **Requires Microsoft Access 365**.  Yep, it is a VBA application, [read here for why](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/src/SOURCE_CODE.md#whyMicrosoftAccess)
@@ -179,9 +179,10 @@ Next, enter some Project metadata:
 
 
 #### 3.6 Setup Tasks
-Next, enter some Tasks:
+Next, enter some Tasks:<br>
 <img src="img/img_07_edit_tasks.png" width="617">
-1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the others because you can select a project to filter tasks, and there are several columns of values per task.
+1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.
+2. 
 
 
 
