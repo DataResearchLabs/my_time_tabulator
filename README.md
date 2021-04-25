@@ -132,7 +132,7 @@ The "landing page" that first pops up happens to also be the main page where you
 
 
 #### 3.3 Setup Properties
-Before you can enter any tasks and times, you will need to enter metadata:
+Before you can enter any tasks and times, you will need to enter metadata.  Start with the Properties metadata:
 <img align="right" src="img/img_04_edit_properties.png" width="463">
 1. **Open**: Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
 2. **Data Entry**: Enter your employer's name at blue dot#1, and your name at blue dot#2.<br>
@@ -141,18 +141,20 @@ Before you can enter any tasks and times, you will need to enter metadata:
 
 
 #### 3.4 Setup Projects
-Next:
+Next, enter some Project metadata:
 <img align="right" src="img/img_05_edit_projects.png" width="508">
 4. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
 5. **Data Entry**: Enter Project ID's at blue dot#1, and Project Names as blue dot#2.<br>
 6. **Naming**: Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
 7. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
 8. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
+<br>
 **NOTES**:<br>
+* You will continually be adding projects over time.<br>
 * Tasks (discussed below) all rollup into projects.<br>
 * There is only one level of projects, so if you need "epics", be sure to name them with a prefix abbreviation accordingly (eg: "ALPHA: (1) blah blah", "ALPHA: (2) blah blah), or something similar).<br>
 * These values show up in the Task Edit page as the drop down filter, and on many reports as a grouping, sorting, and rollup parameter.<br>
-* <br>
+<br>
 
 
 #### 3.5 Setup Categories
@@ -163,12 +165,14 @@ Next:
 11. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
 12. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
 13. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
+<br>
 **NOTES**:<br>
+* You may occasionally add or change categorizations over time, but they generally are set once and rarely change again.<br>
 * Use whatever categorization convention you want.  They are intended to be a way of analyzing where you can claw back some time on projects, or maybe as a monthly or quarterly self-retrospective.<br>
 * This field used to be named WBS for Work-Breakdown-Structure with hieararchy, but was simplified over the years to just a single level list.<br>
 * I tend to use "**OH**" for Overhead / or "**MTG**" for Meetings, and "**PROJ**" for Project and Task work, and "**OOO**" for Out-of-Office (PTO, sick leave, volunteer events, etc.).<br>
-* But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as either **Green**" (good), "**Yellow**" (okay, try to delegate), "**Orange**" (minimize), and "**Red**" (bad).  The screenshot below demos these categories.<br>  
-*   These values show up in the reports as grouping, sorting, and rollup parameters.<br>
+* But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as either **Green**" (good), "**Yellow**" (okay, try to delegate), "**Orange**" (minimize), and "**Red**" (bad).  The screenshot below demos these categories.<br>
+* These values show up in the reports as grouping, sorting, and rollup parameters.<br>
 <br>
 
 
