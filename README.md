@@ -85,10 +85,29 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 9. **Time Boxing**: If you work on agile projects and need to time box certain activities, how do you know when you've hit the limit?<br>
 
 10. **Dial in Your Estimates**: to improve your pipeline.  The construction industry has this down in spades -- how much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah .... yeah, check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their hundreds s of thousands of ways to estimate anything construction related.  Then look at the laughable lack of estimating depth in the software industry.  It all starts with tracking costs AND TIME.  In construction, labor is 50% of the cost.  In software, labor is like 90%+ of the cost; therefore, tracking time is even more important.<br>  
+<br>
 
 
+#### 1.2 How to Track Your Time ...
+There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there for you to use, including Clockify, TogglTrack, Havest, HubStaff, RescueTime, TmieDoctor, TimeCamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
+
+So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is simple, full featured, and has several actionable reoprts to better track your time.<br>
+<br>
+
+
+<a id="download" class="anchor" href="#download" aria-hidden="true"> </a>
 ### 2. Download the Application
-#### 2.1 Decision
+
+#### 2.1 Download
+To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
+1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)
+2. Then click the download button
+3. Then cilck the 'Open Folder' button (or '...' button) at browser Open File popup
+4. Then copy the "MyTaskTimeTracker.accdb" file
+
+
+#### 2.2 Deploy
+
 
 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
