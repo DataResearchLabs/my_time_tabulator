@@ -114,6 +114,9 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
+#### 3.1 First Open / Security Notice
+
+
 #### 3.1 Setup Properties
 
 
