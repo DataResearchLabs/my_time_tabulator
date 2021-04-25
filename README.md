@@ -155,6 +155,7 @@ Next, enter some Project metadata:
 * Tasks (discussed below) all rollup into projects.<br>
 * There is only one level of projects, so if you need "epics", be sure to name them with a prefix abbreviation accordingly (eg: "ALPHA: (1) blah blah", "ALPHA: (2) blah blah), or something similar).<br>
 * These values show up in the Task Edit page as the drop down filter, and on many reports as a grouping, sorting, and rollup parameter.<br>
+* There is a hidden Project "NA" that you cannot edit or remove.  It exists for the task "--BREAK--".<br>
 <br>
  
 
@@ -175,12 +176,13 @@ Next, enter some Project metadata:
 * I tend to use "**OH**" for Overhead / or "**MTG**" for Meetings, and "**PROJ**" for Project and Task work, and "**OOO**" for Out-of-Office (PTO, sick leave, volunteer events, etc.).<br>
 * But, I saw an [interesting article in Forbes](https://www.forbes.com/sites/markmurphy/2017/05/28/the-big-reason-why-you-need-to-start-tracking-your-time/?sh=2ba8af983e1d) that suggested tracking your time as either **Green**" (good), "**Yellow**" (okay, try to delegate), "**Orange**" (minimize), and "**Red**" (bad).  The screenshot below demos these categories.<br>
 * These values show up in the reports as grouping, sorting, and rollup parameters.<br>
+* There is a hidden Category "NA" that you cannot edit or remove.  It exists for the task "--BREAK--".<br>
 <br>
 
 
 #### 3.6 Setup Tasks
 Next, enter some Tasks:<br>
-<img src="img/img_07_edit_tasks.png" width="617">
+<img align"right" src="img/img_07_edit_tasks.png" width="617">
 1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
 2. **Project**: Before you start entering task data, be sure you have selected the appropriate parent Project in the drop down at blue dot#1.<br>
 3. **Ignore**: the Task ID at blue dot#2.  This is automatically calculated as the max value + 1.  (Used to be AutoNumber, but that caused issues with importing.)<br>
@@ -189,7 +191,21 @@ Next, enter some Tasks:<br>
 6. **IsClosed**: At blue dot#5, select whether the task IsClosed "Y" or not "N" or will never have a closed status "NA" because it is an ongoing task (like recurring meeting).  Typically, when you first add a task, it will start as "Y", then several days or weeks or months later you will return to this screen to flip the IsClosed value to "N".  However, you will have a few tasks that you initially set straight away to "NA" and never return to change.<br>
 7. **ProjectID**: You typically just go with the default value in this field, because it is set based on the drop down in blue dot #1.  **However**, there may be times when you want to re-assign a task to a new project, or split tasks from one project out into two projects.  In those cases, just flip the ProjectID values for those tasks you wish to move.<br>
 8. **Add More**: Continue to add tasks by filling out cells in the "\*" row.<br>
-9. **Close**: When done adding or ediing tasks, click the "Ok" button at blue dot#7  close and return to the main form
+9. **Close**: When done adding or ediing tasks, click the "Ok" button at blue dot#7  close and return to the main form<br>
+
+
+**NOTES**:
+* You will continually be adding tasks over time.<br>
+* You will continually be editign existing tasks at least once to close them out over time.<br>
+* Tasks are the lowest level of granularity in the system, and they tie everything together relative to reporting.<br>
+* Think through your naming convention on tasks.<br>
+  * For example, for 90% of my tasks, they are unique so I just name them something meaningful without too much concern for convention other than consistent labeling of key phases or steps that will repeat across groups of tasks (eg: "design" or "data analysis" or "research" or "coding").
+  * However, there are about 10% of tasks that are recurring, things like meetings, or 1x1's, or company retreats, or process improvement reviews.
+  * For these I like to bucket them up into generic tasks that span forever, and label them something like:<br>
+    * "@T1-MISC: Morning Emails, Update/Fix Computer, etc.",
+    * "@T2-NPM: Non-Project Meetings", and <br>
+    * "@T3-NPT: Non-Project Training", <br>
+* There is a hidden Task "--BREAK--" that you cannot edit or remove.  It exists for marking the start of Lunch time, or the start of a quick break away from work, and to mark the end of your work day.  The duration column is never calculated fro a --BREAK-- row, but teh --BREAK-- row is used to derive the end date/time of the prior task.  So entering --BREAK-- rows is important for the system to properly calculate times.<br>
 
 
 
