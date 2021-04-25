@@ -63,7 +63,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
     * Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
     * Sell your work story...because nobody else is going to do it for you.<br>
 
-3. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
+3. **Red Light - Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
     * Green Light: What you were hired to do<br>
     * Yellow Light: What can be delegated or packaged for a peer<br>
     * Orange Light: What may be important, but not what you were hired to do<br>
@@ -87,7 +87,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 9. **Time Boxing**: If you work on agile projects and need to time box certain activities, how do you know when you've hit the limit?<br>
 
-10. **Dial in Your Estimates**: to improve your pipeline.  
+10. **Dial in Your Estimates**: to improve your pipeline...  
     * The construction industry has this down in spades
       * How much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah<br>
       * Check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their thousands of ways to estimate anything construction related.<br>
@@ -101,7 +101,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 #### 1.2 How Best to Track and Analyze Where Your Time Goes...
 Use a simple software tool to track and analyze your time.  There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there, including Clockify, TogglTrack, Harvest, Hubstaff, RescueTime, TimeDoctor, Timecamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
 
-So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is 100% free, simple, full-featured, and emphasizes both the tracking and the analysis parts of the question.<br>
+So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is 100% free, simple, full-featured, and emphasizes both the tracking and the analyzing parts of the question.<br>
 <br>
 
 
@@ -120,12 +120,16 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 1. Identify or create a "parent" folder (referred to as "$" henceforth) somewhere on your computer that is the "root" to house all the test case data files.  For example: "c:\tools\my_task_time_tracker" could be your root folder.
 2. Paste a copy of the downloaded "MyTaskTimeTracker.accdb" into the new "$" folder
 3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walkthru howto customize an icon for that shortcut.
+<br>
 
 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
 #### 3.1 First Open / Security Notice
-The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to render "some active content disabled", meaning that VBA code will not run and thus the application will not functiona properly.  The screenshot below shows the security warning message (blue dot #1).  Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.  Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.  
+The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
+  * The screenshot below shows the security warning message (blue dot #1).<br>
+  * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
+  * Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.<br>
 <img src="img/img_02_first_load_security_prompt.png" width="794">
 <br>
 
