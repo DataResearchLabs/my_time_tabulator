@@ -148,8 +148,9 @@ Next, enter some Project metadata:
 3. **Naming**: Choose whatever you want for naming conventions (numeric, alpha numeric mix, etc.).<br>
 4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
 5. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
-<br>
-**NOTES**:<br>
+
+
+**NOTES**:
 * You will continually be adding projects over time.<br>
 * Tasks (discussed below) all rollup into projects.<br>
 * There is only one level of projects, so if you need "epics", be sure to name them with a prefix abbreviation accordingly (eg: "ALPHA: (1) blah blah", "ALPHA: (2) blah blah), or something similar).<br>
@@ -158,14 +159,15 @@ Next, enter some Project metadata:
  
 
 #### 3.5 Setup Categories
-Next:
+Next, enter some Project metadata:
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
-9. **Open**: Next, click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
-10. **Data Entry**: Enter Category ID's at blue dot#1, and Category names as blue dot#2.<br>
-11. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
-12. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
-13. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
-<br>
+1. **Open**: Next, click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
+2. **Data Entry**: Enter Category ID's at blue dot#1, and Category names as blue dot#2.<br>
+3. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
+4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
+5. **Close**: Then click the [x] in upper right corner of form to close and return to the main form.<br>
+
+
 **NOTES**:<br>
 * You may occasionally add or change categorizations over time, but they generally are set once and rarely change again.<br>
 * Use whatever categorization convention you want.  They are intended to be a way of analyzing where you can claw back some time on projects, or maybe as a monthly or quarterly self-retrospective.<br>
