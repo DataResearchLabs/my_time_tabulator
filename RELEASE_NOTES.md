@@ -4,7 +4,7 @@
 
 
 <ins>**V4.02.44311  -  2021.04.25**</ins><br>
-1. DEFECT - Re-enable project selector so can move tasks<br>
+1. DEFECT - At "Edit Tasks" dialog, re-enable project selector so can move tasks to other projects if necessary<br>
 2. CHANGE - Gannt chart report character flipped back to fixed width font and solid block character and blue color<br>
 3. DEFECT - Gannt chart report bar width calc not properly reflect new bar width after widened page<br>
 4. DEFECT - Error if open Gannt chart report with no data that goes to log...and is meaningless<br>
