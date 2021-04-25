@@ -202,8 +202,8 @@ Next, enter some Project metadata:
 
 
 #### 3.6 Setup Tasks
-<img src="img/img_07_edit_tasks.png" width="617">
 Next, enter some Tasks:<br>
+<img src="img/img_07_edit_tasks.png" width="617">
 1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screesn above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
 2. **Project**: Before you start entering task data, be sure you have selected the appropriate parent Project in the drop down at blue dot#1.<br>
 3. **Ignore**: the Task ID at blue dot#2.  This is automatically calculated as the max value + 1.  (Used to be AutoNumber, but that caused issues with importing.)<br>
