@@ -115,21 +115,33 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
 #### 3.1 First Open / Security Notice
-The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to render "some active content disabled", meaning that some important functionality will not function properly.  The screenshot below shows the security warning message (blue dot #1).  Go ahead and click the "Enable Content" button (blue dot #2) top open the application with complete functionality.  Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.  This security prompt primarily prevents all VBA code from running until the user confirms it is okay.
+The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to render "some active content disabled", meaning that VBA code will not run and thus the application will not functiona properly.  The screenshot below shows the security warning message (blue dot #1).  Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.  Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.  
 <img src="img/img_02_first_load_security_prompt.png" width="794">
 
-#### 3.1 Setup Properties
+
+#### 3.2 "Landing Page" = Main Form
+The "landing page" that first pops up happens to also be the main page where you will do all your time entries and from which you can launch various popup metadata entry forms, run analysis reports, etc.  The form layout is:
+1. **Form Header**: At blue dot #1 contains the application name, version, and DataResearchLabs logo.  It also contains your company name and your name which we will fill out soon.<br>
+2. **Toolbar**: At blue dot #2 contains buttons to perform various actions such as populating metadata (properties, projects, categories, and tasks), or running reports (timecard, tasks by project or category, etc.).
+3. **Navigation**: At blue dot #3 contains buttons to move the view around to different days, or to save the current days entries or changes.  There are three left buttons and three right buttons. The "|<<" and "|>>" buttons move all the way to the end (first or last) day.  The "<<" and ">>" buttons move backward or forward one week.  The "<" and ">" buttons move backwards or forwards one day.  The 3.5" floppy disk button saves the daily entries changed below.
+4. **Task Filters**:  At blue dot #4 contains three buttons to limit what tasks show up in the TaskName dropdown lists below.  After using this tool for months, you will have any completed tasks (IsClosed="Yes") which you do not want to keep scrolling thru when selecting a task for a time span.
+5. **Daily Time Entry**: At blue dot #5 is where you enter your daily tasks and times. 
+<img src="img/img_03_landing_form_empty.png" width="544">
 
 
-#### 3.2 Setup Projects
+#### 3.3 Setup Properties
 
 
 
-#### 3.3 Setup Categories
+#### 3.4 Setup Projects
 
 
 
-#### 3.4 Setup Tasks
+#### 3.5 Setup Categories
+
+
+
+#### 3.6 Setup Tasks
 
 
 
