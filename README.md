@@ -210,9 +210,9 @@ Next, enter some Tasks:<br>
 4. **TaskName**: Type in a Task Name at blue dot#3.<br>
 5. **Category**: Select a category from the drop down at blue dot#4.<br>
 6. **IsClosed**: At blue dot#5, select the task IsClosed status as:
-    * "N" - When you first add a new task that is not closed
-    * "Y" - Return here later to close out completed tasks with a "Y" 
-    * "NA" - For tasks that will never be closed because it is an ongoing task (like a recurring meeting).  
+    * "**N**" - When you first add a new task that is not closed
+    * "**Y**" - Return here later to close out completed tasks with a "Y" 
+    * "**NA**" - For tasks that will never be closed because it is an ongoing task (like a recurring meeting).  
     Typically, when you first add a task, it will start as "Y", then several days or weeks or months later you will return to this screen to flip the IsClosed value to "N".  However, you will have a few tasks that you initially set straight away to "NA" and never return to change.<br>
 8. **ProjectID**: You typically just go with the default value in this field, because it is set based on the drop down in blue dot #1.
 **However**, there may be times when you want to re-assign a task to a new project, or split tasks from one project out into two projects.  In those cases, just flip the ProjectID values for those tasks you wish to move.<br>
@@ -231,7 +231,7 @@ Next, enter some Tasks:<br>
     * "@T1-MISC: Morning Emails, Update/Fix Computer, etc.",
     * "@T2-NPM: Non-Project Meetings", and <br>
     * "@T3-NPT: Non-Project Training", <br>
-* There is a hidden Task "--BREAK--" that you cannot edit or remove.  It exists for marking the start of Lunch time, or the start of a quick break away from work, and to mark the end of your work day.  The duration column is never calculated fro a --BREAK-- row, but teh --BREAK-- row is used to derive the end date/time of the prior task.  So entering --BREAK-- rows is important for the system to properly calculate times.<br>
+* There is a hidden Task "--BREAK--" that you cannot edit or remove.  It exists for marking the start of Lunch time, or the start of a short break, and to mark the end of your work day.  The duration column is never calculated for a "break" row, but the "break" row is used to derive the end date/time of the prior task.  Thus, entering "break" rows is important for the system to properly calculate task durations.<br>
 
 
 
