@@ -161,7 +161,7 @@ Next, enter some Project metadata:
 #### 3.5 Setup Categories
 Next, enter some Project metadata:
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
-1. **Open**: Next, click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
+1. **Open**: Click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
 2. **Data Entry**: Enter Category ID's at blue dot#1, and Category names as blue dot#2.<br>
 3. **Naming**: Choose whatever categorizations and naming conventions you want (numeric, alpha numeric mix, etc.).  
 4. **Add More**: Continue to add projects by filling out Project ID's and Nams in the "\*" row.<br>
@@ -180,8 +180,8 @@ Next, enter some Project metadata:
 
 #### 3.6 Setup Tasks
 Next, enter some Tasks:
-
-
+<img src="img/img_07_edit_tasks.png" width="617">
+1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the others because you can select a project to filter tasks, and there are several columns of values per task.
 
 
 
