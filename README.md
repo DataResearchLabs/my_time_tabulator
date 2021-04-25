@@ -115,7 +115,8 @@ To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from th
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
 #### 3.1 First Open / Security Notice
-
+The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to render "some active content disabled", meaning that some important functionality will not function properly.  The screenshot below shows the security warning message (blue dot #1).  Go ahead and click the "Enable Content" button (blue dot #2) top open the application with complete functionality.  Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.  This security prompt primarily prevents all VBA code from running until the user confirms it is okay.
+<img src="img/img_02_first_load_security_prompt.png" width="794">
 
 #### 3.1 Setup Properties
 
