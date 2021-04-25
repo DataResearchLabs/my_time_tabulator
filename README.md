@@ -63,7 +63,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
   - Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
   - Sell your work story...because nobody else is going to do it for you.<br>
 
-3. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:<br>
+3. **Red Light/Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
   - Green Light: What you were hired to do<br>
   - Yellow Light: What can be delegated or packaged for a peer<br>
   - Orange Light: What may be important, but not what you were hired to do<br>
