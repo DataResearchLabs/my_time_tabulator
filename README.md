@@ -42,7 +42,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 ## Table of Contents
  - <a href="#introduction">1. Introduction</a>
- - <a href="#download">2. Download the Application</a>
+ - <a href="#installation">2. Installation</a>
  - <a href="#gettingStarted">3. Getting Started, Configure Metadata</a>
  - <a href="#dailyTimeEntry">4. "Daily Time Entry" Sheet</a>
  - <a href="#reports">5. "Reports" Worksheet</a>
@@ -95,8 +95,8 @@ So, why would you want to download and use this Microsoft Access application tyi
 <br>
 
 
-<a id="download" class="anchor" href="#download" aria-hidden="true"> </a>
-### 2. Download the Application
+<a id="installation" class="anchor" href="#installation" aria-hidden="true"> </a>
+### 2. Installation
 
 #### 2.1 Download
 To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
