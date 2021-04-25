@@ -169,7 +169,7 @@ Next, enter some Project metadata:
 
 
 **NOTES**:<br>
-* You may occasionally add or change categorizations over time, but they generally are set once and rarely change again.<br>
+* You may occasionally add or change categories over time, but they generally are set once and rarely change after that.<br>
 * Use whatever categorization convention you want.  They are intended to be a way of analyzing where you can claw back some time on projects, or maybe as a monthly or quarterly self-retrospective.<br>
 * This field used to be named WBS for Work-Breakdown-Structure with hieararchy, but was simplified over the years to just a single level list.<br>
 * I tend to use "**OH**" for Overhead / or "**MTG**" for Meetings, and "**PROJ**" for Project and Task work, and "**OOO**" for Out-of-Office (PTO, sick leave, volunteer events, etc.).<br>
