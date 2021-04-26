@@ -280,10 +280,18 @@ Now, enter a second task and time on the second row, using the current time and 
 
 
 So how do you handle lunch breaks, and the End-Of-Day marker that sets the end times for duration calculations on the last task before lunch or break, and the last task of the day?  The answer is to select the system Task "--BREAK--" as shown in blue dor#1 to the right.  the first break enables task #2 to auto calculate 1.25 hr, and the last break eanbles task 4 to auto calculate at 4.75 hr.
+<br>
 
 
 #### 4.4 Filter to Hide or Show Tasks in Dropdown
+<img align="right" src="img/img_13_task_dropdown_filter_buttons.png" width="466">
 
+After many months, you will have created dozens if not a hundred or more tasks.  That becomes cumbersome to scroll thru when making task selections.  Thus, wouldn't it be nice if the tasks in the drop could be filtered by the column value at blue dot#1?  Well, happily blue dot#2 shows three such filter buttons:
+* **"Y"** = Show closed tasks, where IsClosed=Yes
+* **"N"** = Show open tasks, where IsClosed=No
+* **"NA"** = Show NA tasks, where IsClosed=NA
+* **Default** state is Yes=up, No=down, and NA=down
+<br>
 
 
 #### 4.5 Save Daily Entry
