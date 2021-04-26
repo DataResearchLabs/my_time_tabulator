@@ -281,6 +281,7 @@ Now, enter a second task and time on the second row, using the current time and 
 
 So how do you handle lunch breaks, and the End-Of-Day marker that sets the end times for duration calculations on the last task before lunch or break, and the last task of the day?  The answer is to select the system Task "--BREAK--" as shown in blue dor#1 to the right.  the first break enables task #2 to auto calculate 1.25 hr, and the last break eanbles task 4 to auto calculate at 4.75 hr.
 <br>
+<br>
 
 
 #### 4.4 Filter to Hide or Show Tasks in Dropdown
@@ -294,8 +295,10 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 <br>
 
 
-#### 4.5 Save Daily Entry
-
+#### 4.5 Save Daily Entry Ledger
+<img align="right" src="img/img_14_save_daily_entry.png" width="262">
+* **Save Button** When you are done entering tasks and times, click the save button (circled in blue to the right) to commit your changes to the database.
+* **Change Days** If you attempt to change days, or click any toolbar buttons, you will be prompted whether to save changes (or discard them if you reply No).
 
 
 #### 4.6 Wekly Time Card
