@@ -276,7 +276,10 @@ Now, enter a second task and time on the second row, using the current time and 
 
 
 ##### 4.2.3 Special "--BREAK--" Task
+<img align="right" src="img/img_11_time_entry_row2.png" width="521">
 
+
+So how do you handle lunch breaks, and the End-Of-Day marker that sets the end times for duration calculations on the last task before lunch or break, and the last task of the day?  The answer is to select the system Task "--BREAK--" as shown in blue dor#1 to the right.  the first break enables task #2 to auto calculate 1.25 hr, and the last break eanbles task 4 to auto calculate at 4.75 hr.
 
 
 #### 4.4 Filter to Hide or Show Tasks in Dropdown
