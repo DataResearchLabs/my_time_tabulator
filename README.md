@@ -305,7 +305,11 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 
 
 #### 4.5 Weekly Time Card
-x
+To view a Weekly Time Card report, first select a day having tasks and times populated during a given week of interest.  Then click the "Time Card" button on the toolbar.  The following report will popup.  Numbered blue bullet points below identify the various report elements.
+<img align="right" src="img/img_15_weekly_time_card.png" width="644">
+
+1.  **Header-Left**: Contains the report name, **your name**, and the week's starting date (Monday).
+2.  **Header-Right**: Contains your company's name.
 
 
 
