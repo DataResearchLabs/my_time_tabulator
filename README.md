@@ -284,7 +284,7 @@ So how do you handle lunch breaks, and the End-Of-Day marker that sets the end t
 <br>
 
 
-#### 4.4 Filter to Hide or Show Tasks in Dropdown
+#### 4.3 Filter to Hide or Show Tasks in Dropdown
 <img align="right" src="img/img_13_task_dropdown_filter_buttons.png" width="466">
 
 After many months, you will have created dozens if not a hundred or more tasks.  That becomes cumbersome to scroll thru when making task selections.  Thus, wouldn't it be nice if the tasks in the drop could be filtered by the column value at blue dot#1?  Well, happily blue dot#2 shows three such filter buttons:
@@ -295,14 +295,17 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 <br>
 
 
-#### 4.5 Save Daily Entry Ledger
+#### 4.4 Save Daily Entry Ledger
 <img align="right" src="img/img_14_save_daily_entry.png" width="262">
+
+
 * **Save Button** When you are done entering tasks and times, click the save button (circled in blue to the right) to commit your changes to the database.
 * **Change Days** If you attempt to change days, or click any toolbar buttons, you will be prompted whether to save changes (or discard them if you reply No).
+<br>
 
 
-#### 4.6 Wekly Time Card
-
+#### 4.5 Weekly Time Card
+x
 
 
 
