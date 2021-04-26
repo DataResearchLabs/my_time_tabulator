@@ -305,11 +305,21 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 
 
 #### 4.5 Weekly Time Card
-To view a Weekly Time Card report, first select a day having tasks and times populated during a given week of interest.  Then click the "Time Card" button on the toolbar.  The following report will popup.  Numbered blue bullet points below identify the various report elements.
+To view a Weekly Time Card report, first select a day having tasks and times populated during a given week of interest.  Then click the "Time Card" button on the toolbar.  The following report will popup.<br>
+Numbered blue bullet points below identify the various report elements.
 <img align="right" src="img/img_15_weekly_time_card.png" width="644">
 
-1.  **Header-Left**: Contains the report name, **your name**, and the week's starting date (Monday).
+1.  **Header-Left**: Contains the report name, your name, and the week's starting date.
 2.  **Header-Right**: Contains your company's name.
+3.  **Task Names**: Are grouped by Project Name and ordered by task name.  Multiple time entries for the same task on the same day are rolled up to a single row here.
+4.  **Day of Week**: Lists the Day of Week name (Mon, Tue, etc.) as well as the Date (month/day, no year).
+5.  **Daily Totals**: How many hours you worked on a given day is vertically totaled here.
+6.  **Weekly Totals**: How many hours you worked on a given task for the week is horizontally totalled here.
+7.  **Total Hours**: For the week are summed up here.
+8.  **Footer-Left**: Contains the application name, and DataResearchLabs' name.
+9.  **Footer-Right**: Contains the apge number and report run date.
+
+Screenshot this report and send via email as a weekly status report to your manager or peers. 
 
 
 
