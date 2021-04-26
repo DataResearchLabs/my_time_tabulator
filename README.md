@@ -63,15 +63,11 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
     * Managers are too busy to notice all the great work you do...so package it up into easily digestable projects, tasks, times, and dates.<br>
     * Sell your work story...because nobody else is going to do it for you.<br>
 
-3. **Red Light - Green Light**: Wouldn't it be nice to tag and rollup all your tasks as:
+3. **Red Light - Green Light**: Wouldn't it be nice to tag and rollup all your tasks to identify activities like meetings that are potentially misusing or even wasting time:
     * **Green Light**: What you were hired to do<br>
     * **Yellow Light**: What can be delegated or packaged for a peer<br>
     * **Orange Light**: What may be important, but not what you were hired to do<br>
-    * **Red Light**: What wastes time, not what you were hired to do
-  
-  Then roll it all up every week to analyze and adjust.<br>
-  Besides, wouldn't it be nice to identify activities that are misusing or even wasting your time?<br>
-  If you can show that 60% of your week is meetings, it becomes much easier to make the case to curtail them.<br>
+    * **Red Light**: What wastes time, not what you were hired to do<br>
 
 4. **Self-Improvement**: by comparing efficiency of similar tasks and projects over time against yourself (bad idea to compare to others, stick to improving yourself).<br>
 
