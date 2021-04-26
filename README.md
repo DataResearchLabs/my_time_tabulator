@@ -237,13 +237,21 @@ Next, enter some Tasks:<br>
 
 <a id="dailyTimeEntry" class="anchor" href="#dailyTimeEntry" aria-hidden="true"> </a>
 ### 4. "Daily Time Entry" Sheet
-#### 4.1 Opening "Test Cases" WorkSheet
+#### 4.1 Select Date
+<img src="img/img_08_date_selectors.png" width="257">
+From the main task and time entry screen, the first thing you need to do is select a date.  Today's date is the default, so typically you do not need to change anything.  In the screenshot to the right, the various date selectors are tagged and defined as follows:
+* Dot #1 = Jump to first date with time entries<br>
+* Dot #2 = Move one week earlier<br>
+* Dot #3 = Move one day prior<br>
+* Dot #4 = Currently selected day for which tasks and times shown<br>
+* Dot #5 = Jump to Today's date<br>
+* Dot #6 = Move one day forward<br>
+* Dot #7 = Move one week forward<br>
+* Dot #8 = Jump to last date with time entries<br>
+<br>
 
 
-#### 4.2 Select Date
-
-
-#### 4.3 Select Hour, Minute, and Task
+#### 4.2 Select Hour, Minute, and Task
 
 
 
