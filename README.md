@@ -254,6 +254,7 @@ From the main task and time entry screen, the first thing you need to do is sele
 
 
 #### 4.2 Enter Tasks and Times
+##### 4.2.1 First Row of a Day
 <img align="right" src="img/img_09_time_entry_before.png" width="521">
 <img align="right" src="img/img_10_time_entry_after.png" width="521">
 
@@ -264,6 +265,7 @@ The entry form starts off blank each day.  Go ahead and select a TaskName from t
 * **Change=Possible**: You can change the hour and minute dropdown values.
 * **Duration=Blank**: Notice that duration (blue dot#3) is blank; that is because it takes both a start **and** an end time to calculate a duration (two tasks).
 
+##### 4.2.2 Second Row of a Day
 <img align="right" src="img/img_11_time_entry_row2.png" width="521">
 
 
@@ -272,6 +274,8 @@ Now, enter a second task and time on the second row, using the current time and 
 * **RankOrd=Auto-Calc**: The Rank Order column on the far left of the grid is also automatically calculated.  Both it and duration are in a lighter blue color, indicating that they are calculated and un-editable by design.
 * **24 Hour**: Notice that the time drop down contains the hours 00 thru 23, not 00-12 with AM and PM.  This was in part for efficiency (one less column to enter for each row) and partly to make coding easier.  I originally had AM or PM in a dropdown, but got to the report modifications and realized it was just not worth the complexity and extra effort.  **TIP** - Just add 12 to arrive at the appropriate military time (example: 5PM + 12 = 17-hundred hours; or 10PM +12 = 22-hundred hours).<br>
 
+
+##### 4.2.3 Special "--BREAK--" Task
 
 
 
