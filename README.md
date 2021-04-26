@@ -238,8 +238,8 @@ Next, enter some Tasks:<br>
 <a id="dailyTimeEntry" class="anchor" href="#dailyTimeEntry" aria-hidden="true"> </a>
 ### 4. "Daily Time Entry" Sheet
 #### 4.1 Select Date
+From the main task and time entry screen, the first thing you need to do is select a date.  Today's date is the default, so typically you do not need to change anything.  In the screenshot to the right, the various date selectors are tagged and defined as follows:<br>
 <img align="right" src="img/img_08_date_selectors.png" width="257">
-From the main task and time entry screen, the first thing you need to do is select a date.  Today's date is the default, so typically you do not need to change anything.  In the screenshot to the right, the various date selectors are tagged and defined as follows:
 
 
 * Dot #1 = Jump to first date with time entries<br>
