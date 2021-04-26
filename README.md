@@ -319,7 +319,7 @@ Numbered blue bullet points below identify the various report elements.
 8.  **Footer-Left**: Contains the application name, and DataResearchLabs' name.
 9.  **Footer-Right**: Contains the apge number and report run date.
 
-**Suggestion**: Occasionally, as needed, screenshot this report and paste into a weekly status email to your manager or project team.  You could also IM or email a screenshot as a scrum attendance substitute when appropriate.<br>
+**Suggestion**: Occasionally, as needed, screenshot just the table section of this report and paste into a weekly status email to your manager or project team.  You could also IM or email a screenshot as a scrum attendance substitute when appropriate.<br>
 <br>
 
 
