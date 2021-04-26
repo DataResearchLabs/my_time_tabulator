@@ -253,20 +253,22 @@ From the main task and time entry screen, the first thing you need to do is sele
 <br>
 
 
-#### 4.2 Select Hour, Minute, and Task
+#### 4.2 Enter Tasks and Times
 <img align="right" src="img/img_09_time_entry_before.png" width="521">
 <img align="right" src="img/img_10_time_entry_after.png" width="521">
 
 
-The entry form starts off blank each day.  Go ahead and select a TaskName from the dropdown (blue dot#1) and the current hour and minute will be automatically set.  
+The entry form starts off blank each day.  Go ahead and select a TaskName from the dropdown (blue dot#1) and the current hour and minute will be automatically set.  Go ahead and set it back a couple of hours. 
 * **Before=Blank**: The screenshot on top is the initial state.
 * **After=Auto-Calc**: Notice in the lower screenshot that the hour and time cells (blue dots#1 and #2) were automatically set to right now.
 * **Change=Possible**: You can change the hour and minute dropdown values.
 * **Duration=Blank**: Notice that duration (blue dot#3) is blank; that is because it takes both a start **and** an end time to calculate a duration (two tasks).
+* **24 Hour**: Notice that the time drop down contains the hours 00 thru 23, not 00-12 with AM and PM.  This was in part for efficiency (one less column to enter for each row) and partly to make coding easier.  I originally had AM or PM in a dropdown, but got to the report modifications and realized it was just not worth the complexity and extra effort.  **TIP** - Just add 12 to arrive at the appropriate military time (example: 5PM + 12 = 17-hundred hours; or 10PM +12 = 22-hundred hours).<br>
 
-
-
-* **24 Hour**: Notice that the time drop down
+<img align="right" src="img/img_11_time_entry_row2.png" width="521">
+Now, enter a second task and time on the second row, using the current time and hour.
+* **Dur=Auto-Calc**: Notice that the Dur (durationin hours) of the first task has now been automatically calculated.  This is because it has a boundary (end time) as established by the second task start time.
+* **RankOrd=Auto-Calc**: The Rank Order column on the far left of the grid is also automatically calculated.  Both it and duration are in a lighter blue color, indicating that they are calculated and un-editable by design.
 
 
 
