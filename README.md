@@ -254,6 +254,18 @@ From the main task and time entry screen, the first thing you need to do is sele
 
 
 #### 4.2 Select Hour, Minute, and Task
+<img align="right" src="img/img_09_time_entry_before.png" width="521">
+<img align="right" src="img/img_10_time_entry_after.png" width="521">
+The entry form starts off blank each day.  Go ahead and select a TaskName from the dropdown (blue dot#1) and the current hour and minute will be automatically set.  
+* **Before=Blank**: The screenshot on top is the initial state.<br>
+* **After=Auto-Calc**: Notice in the lower screenshot that the hour and time cells (blue dots#1 and #2) were automatically set to right now.<br>
+* **Change=Possible**: You can change the hour and minute dropdown values.<br>
+* **Duration=Blank**: Notice that duration (blue dot#3) is blank; that is because it takes both a start **and** an end time to calculate a duration (two tasks).<br>
+
+
+
+* **24 Hour**: Notice that the time drop down
+
 
 
 
