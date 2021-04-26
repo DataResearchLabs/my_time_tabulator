@@ -240,10 +240,10 @@ Next, enter some Tasks:<br>
 #### 4.1 Select Date
 From the main task and time entry screen, the first thing you need to do is select a date.  Today's date is the default, so typically you do not need to change anything.  In the screenshot to the right, the various date selectors are tagged and defined as follows:<br>
 
-
-| <img align="right" src="img/img_08_date_selectors.png" width="257"> |* Dot #1 = Jump to first date with time entries | 
-| | * Dot #2 = Move one week earlier |
-| | * Dot #3 = Move one day prior |
+|-------------------------------------------------------|------------------------------------------------|
+| <img src="img/img_08_date_selectors.png" width="257"> |* Dot #1 = Jump to first date with time entries | 
+|                                                       |* Dot #2 = Move one week earlier                |
+|                                                       |* Dot #3 = Move one day prior                   |
 
 
 * Dot #4 = Currently selected day for which tasks and times shown<br>
