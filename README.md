@@ -86,7 +86,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 10. **Dial in Your Estimates**: to improve your pipeline...  
     * The construction industry has this down in spades
-      * How much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, blah, blah, blah<br>
+      * How much does it cost per square foot of building footprint to build a 3 story building with wood beam construction, etc., etc.<br>
       * Check out [RS Means](https://psu.pb.unizin.org/app/uploads/sites/138/2019/11/Fig-7-2.png) and their thousands of ways to estimate anything construction related.<br>
       * This accuracy in construction estimates exists only because they track costs AND TIME.
     * Now compare that against the laughable lack of estimating accuracy and depth in the software industry.<br>
