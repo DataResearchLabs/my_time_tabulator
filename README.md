@@ -392,11 +392,12 @@ The rollup by project report is a short (1 row per project) summary of where the
 
 
 1. **Project Name**: The Project name you assigned in the Edit Projects screen.  Suggestion: prefix the project name with an abbreviation or project code so you can control the sort ordering and grouping.<br>
+#
 2. **Actual Dur**: The actual duration in hours totalled up for the category, given whatever filter constraints you have applied.<br>
 3. **Delta Days**: The number of days between when the start and finish dates for the category bucket.  The point of this column is to emphasize that you can never divide hours by 8 (per day) and arrive at the number of days a task requires.  Tasks always get spread out across multiple days with the ebb and flow of priorities, lead and lag times, etc.<br>
 4. **Start and Finish Date**: The start date is the earliest (min) date of all tasks in the category bucket.  The end date is the latest (max) date of all tasks in the category bucket.<br>
-5. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br>
-
+5. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br> #
+<br>
 
 
 
