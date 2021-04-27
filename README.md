@@ -323,9 +323,14 @@ Numbered blue bullet points below identify the various report elements.
 <a id="reports" class="anchor" href="#reports" aria-hidden="true"> </a>
 ### 5. Reports
 #### 5.1 Opening Report Wizard
-To open the...
+To view reports, start by cilcking the "Reports" button on the main screen's toolbar.  That will popup the Run Report Wizard consisting of two steps.
+
 
 #### 5.2 Step 1 - Select Report
+<img align="right" src="img/img_16_report_dlg_step1.png" width="475">
+* **Dot #1 **: Currently, there are four reports to select from in the listbox.
+* **Dot #2**: If you want to filter the data in the report, click the "Next" button.
+* **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button.
 
 
 #### 5.3 Step 2 - Select Filter
@@ -375,9 +380,9 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 
 <a id="advancedTopics" class="anchor" href="#advancedTopics" aria-hidden="true"> </a>
 ### 8. Advanced Tips & Tricks
-#### 8.1 Using "Jump Stops" 
+#### 8.1 Rollup the Toolbar 
 <img align="right" src="img/img_20_jump_stops.png" width="284">
-"Jump Stops" are just
+"Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.
 
 
 
