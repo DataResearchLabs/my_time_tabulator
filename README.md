@@ -321,20 +321,25 @@ Numbered blue bullet points below identify the various report elements.
 
 
 <a id="reports" class="anchor" href="#reports" aria-hidden="true"> </a>
+<img align="right" src="img/img_16_report_dlg_step1.png" width="475">
 ### 5. Reports
 #### 5.1 Opening Report Wizard
-To view reports, start by cilcking the "Reports" button on the main screen's toolbar.  That will popup the Run Report Wizard consisting of two steps.
+To view reports, start by cilcking the "Reports" button on the main screen's toolbar.  That will popup the Run Report Wizard consisting of two steps.<br>
 
 
 #### 5.2 Step 1 - Select Report
-<img align="right" src="img/img_16_report_dlg_step1.png" width="475">
-* **Dot #1 **: Currently, there are four reports to select from in the listbox.
-* **Dot #2**: If you want to filter the data in the report, click the "Next" button.
-* **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button.
+* **Dot #1**: Currently, there are four reports to select from in the listbox.<br>
+* **Dot #2**: If you want to filter the data in the report, click the "Next" button.<br>
+* **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button.<br>
+* The report will popup in print preview mode.
 
 
+<img align="right" src="img/img_17_report_dlg_step2.png" width="475">
 #### 5.3 Step 2 - Select Filter
-
+* **Dot #1**: Select option button "Filter Records", or leave default value "Show All Records" selected<br>
+* **Dot #2**: Select a saved filter that you previously created in the Filter Builder (how to build discussed below)<br>
+* **Dot #3**: Click "Run Report" button 
+* The report will popup in print preview mode.
 
 
 #### 5.4 Run Report
