@@ -371,7 +371,7 @@ To edit or add a filter, click the "Build Filter" button on Step #2 of the Repor
 
 
 #### 5.6 "R01 - Rollup by Category" Report Interpetation Guide
-The rollup by category report is a short (1 row per category) summary of where the time went as measured by the Category buckets you create.  In the example below, the category choice was probably not all that great.  See the <a href="#introduction">Introduction</a> for a better way to layout your categories (red-ilght/green-light).<br>
+The "Rollup by Category" report is a short (1 row per category) summary of where the time went as measured by the Category buckets you create.  In the example below, the category choice was probably not all that great.  See the <a href="#introduction">Introduction</a> for a better way to layout your categories (red-ilght/green-light).<br>
 <img src="img/img_19_report1_rollup_categoryX.png" width="726">
 
 
@@ -387,7 +387,7 @@ The report elements identified by blue dots in the screenshot above are as follo
 
 
 #### 5.4 "R02 - Rollup by Project" Report Interpetation Guide
-The rollup by project report is a short (1 row per project) summary of where the time went measured by Project.<br>
+The "Rollup by Project" report is a short (1 row per project) summary of where the time went measured by Project.<br>
 <img src="img/img_20_report2_rollup_project.png" width="726">
 
 
@@ -401,18 +401,35 @@ The report elements identified by blue dots in the screenshot above are as follo
 
 
 #### 5.5 "R03 - Gannt Chart" Report Interpetation Guide
-Sometimes, you just need to layout the projects and all their tasks in a nice gannt chart over time.  It tells the story of what happened and how things went.<br>
+Sometimes, you just need to layout the projects and all their tasks in a nice "Gannt Chart" report over time.  It tells the story of what happened and how things went.<br>
 <img src="img/img_21_report3_gannt.png" width="891">
 
 
 The report elements identified by blue dots in the screenshot above are as follows:
-1. **Task Name**: xxxxxx
-
+1. **Task Name**: The Task name you assigned in the Edit Tasks screen.  Suggestion: Prefix the task name with an abbreviation or naming convention so that you can control the sorting.<br>
+2. **Actual Dur**: The actual duration in hours totalled up for the category, given whatever filter constraints you have applied.<br>
+3. **Delta Days**: The number of days between when the start and finish dates for the category bucket.  The point of this column is to emphasize that you can never divide hours by 8 (per day) and arrive at the number of days a task requires.  Tasks always get spread out across multiple days with the ebb and flow of priorities, lead and lag times, etc.<br>
+4. **Start and Finish Date**: The start date is the earliest (min) date of all tasks in the category bucket.  The end date is the latest (max) date of all tasks in the category bucket.<br>
+5. **Gannt Bars**: A gannt chart consists of bars representing the start date thru the end date.  In the example above, you can see over time how the tasks in rows were worked horizontally by month/day in the blue bars.
+6. **Project #1 Analysis**: Looking at this project MCSE, we can deduce that there were six tasks and three exams totalling 299 hours spread out over 88 days between 10/2/2019 and 12/29/2019 to obtain the certification.<br>
+7. **Project #2 Analysis**: Looking at the project MSDA, we can deduce that there were eleven classes with three supporting tasks totalling 1,208 hours spread out over 331 days between 12/29/2019 and 11/24/2020 to obatin the MSDA degree.<br>
+<br>
 
 
 #### 5.6 "R04 - Task by Project" Report Interpetation Guide
+The "Task by Project" report is a long and detailed (1 row per task).  Tasks are grouped under their respective Projects.  Totals are rolled up at the bottom of each project.<br>
+<img src="img/img_22_report4_task_by_project.png" width="726">
 
 
+The report elements identified by blue dots in the screenshot above are as follows:
+1. **Task ID**: that was automatically generated (max + 1).<br>
+2. **Task Name**: that you set in the Edit Tasks screen.<br>
+3. **Actual Dur**: The actual duration in hours totalled up for the category, given whatever filter constraints you have applied.<br>
+4. **Delta Days**: The number of days between when the start and finish dates for the category bucket.  The point of this column is to emphasize that you can never divide hours by 8 (per day) and arrive at the number of days a task requires.  Tasks always get spread out across multiple days with the ebb and flow of priorities, lead and lag times, etc.<br>
+5. **Start and Finish Date**: The start date is the earliest (min) date of all tasks in the category bucket.  The end date is the latest (max) date of all tasks in the category bucket.<br>
+6. **IsClosed**: Indicating whether the task is closed (="Y"), open (="N"), or perpetual (="NA").<br>
+7. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br>
+<br>
 
 
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
