@@ -310,7 +310,7 @@ Numbered blue bullet points below identify the various report elements.
 2.  **Header-Right**: Contains your company's name.
 3.  **Task Names**: Are grouped by Project Name and ordered by task name.  Multiple time entries for the same task on the same day are rolled up to a single row here.
 4.  **Day of Week**: Lists the Day of Week name (Mon, Tue, etc.) as well as the Date (month/day, no year).
-5.  **Daily Totals**: How many hours you worked on a given day is vertically totaled here.
+5.  **Daily Totals**: How many hours you worked on a given day is vertically totalled here.
 6.  **Weekly Totals**: How many hours you worked on a given task for the week is horizontally totalled here.
 7.  **Total Hours**: For the week are summed up here.
 8.  **Footer-Left**: Contains the application name, and DataResearchLabs' name.
@@ -371,6 +371,18 @@ To edit or add a filter, click the "Build Filter" button on Step #2 of the Repor
 
 
 #### 5.6 "R01 - Rollup by Category" Report Interpetation Guide
+The rollup by category report is a short summary of where the time went as measured by the Category buckets you create.  In the example below, the category choice was probably not all that great.  See the [Introduction](<a href="#introduction">) for a better way to layout your categories (red-ilght/green-light).<br>
+<img src="img/img_19_report1_rollup_category.png" width="726">
+
+
+The report elements identified by blue dots in the screenshot above are as follows:
+1. **Category ID**: that you assigned in the Edit Categories screen.<br>
+2. **Category Name**: that you set in the Edit Categories screen.<br>
+3. **Actual Dur**: The actual duration in hours totalled up for the category, given whatever filter constraints you have applied.<br>
+4. **Delta Days**: The number of days between when the start and finish dates for the category bucket.  The point of this column is to emphasize that you can never divide hours by 8 (per day) and arrive at the number of days a task requires.  Tasks always get spread out across multiple days with the ebb and flow of priorities, lead and lag times, etc.<br>
+5. **Start and Finish Date**: The start date is the earliest (min) date of all tasks in the category bucket.  The end date is the latest (max) date of all tasks in the category bucket.<br>
+6. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br>
+7. **Work Day Totals**: In the screenshot example, there were 572 calendar days, but only 409 business (or work) days.  Doing the math, that equals 27.5hr/wk across the 81.8 weeks tracked.<br>
 
 
 
