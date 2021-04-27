@@ -359,14 +359,14 @@ To edit or add a filter, click the "Build Filter" button on Step #2 of the Repor
 4. **Value**: Select a value to compare against; these are actual values from the daily entries (you cannot type a value in)<br>
 5. **Logical Operator**: If you have more than one row of filter logic, you need to tie it together with "AND" or "OR"<br>
 6. **Paranthesis**: Depending on the complexity of your filter logic, you may need to incorporate parantheses<br>
-7. **More Paranthesis**<br>
-8. **More Paranthesis**<br>
+7. **More Paranthesis...**<br>
+8. **More Paranthesis...**<br>
 9. **Test SQL**: Click this button to test with your filter logic entered above generates valid SQL.  Yuo will get a message box either indicating the SQL logic passes, or it fails with limited details.<br>
 10. **Add Filter**: Click this to button to add a new filter behind the form.  You will need to enter a name (blue dot#1) and make criteria selctions (blue dot#2-8).  Your add is saved as you enter data.<br>
 11. **Delete Filter**: Click this button to delete the currently selected (visible) filter.<br>
 12. **Find Filter**: Cilck this button to popup a dropdown to the right (blue dot #13)<br>
 13. **Select Filter**: Select an existing filter to jump to for editing.  Upon clicking a filter name, the drop down disappears and the form jumps to the selected filter so that you can start editing.<br>
-14. **Closee**: Click when you are done to return to the prior screen.<br>
+14. **Close**: Click when you are done to return to the prior screen.<br>
 <br>
 
 
