@@ -387,21 +387,26 @@ The report elements identified by blue dots in the screenshot above are as follo
 
 
 #### 5.4 "R02 - Rollup by Project" Report Interpetation Guide
-The rollup by project report is a short (1 row per project) summary of where the time went measured by Project.  The report elements identified by blue dots in the screenshot above are as follows:<br>
+The rollup by project report is a short (1 row per project) summary of where the time went measured by Project.<br>
 <img src="img/img_20_report2_rollup_project.png" width="726">
 
 
+The report elements identified by blue dots in the screenshot above are as follows:
 1. **Project Name**: The Project name you assigned in the Edit Projects screen.  Suggestion: prefix the project name with an abbreviation or project code so you can control the sort ordering and grouping.<br>
-#
 2. **Actual Dur**: The actual duration in hours totalled up for the category, given whatever filter constraints you have applied.<br>
 3. **Delta Days**: The number of days between when the start and finish dates for the category bucket.  The point of this column is to emphasize that you can never divide hours by 8 (per day) and arrive at the number of days a task requires.  Tasks always get spread out across multiple days with the ebb and flow of priorities, lead and lag times, etc.<br>
 4. **Start and Finish Date**: The start date is the earliest (min) date of all tasks in the category bucket.  The end date is the latest (max) date of all tasks in the category bucket.<br>
-5. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br> #
+5. **Totals**: Sum of the ActDur column.  Minimum start and maximum end dates for those two columns.   Delta days is the difference between the smallest start date and largest finish date in the columns at blue dot #5.<br> 
 <br>
 
 
-
 #### 5.5 "R03 - Gannt Chart" Report Interpetation Guide
+Sometimes, you just need to layout the projects and all their tasks in a nice gannt chart over time.  It tells the story of what happened and how things went.<br>
+<img src="img/img_21_report3_gannt.png" width="891">
+
+
+The report elements identified by blue dots in the screenshot above are as follows:
+1. **Task Name**: xxxxxx
 
 
 
