@@ -372,7 +372,7 @@ To edit or add a filter, click the "Build Filter" button on Step #2 of the Repor
 
 #### 5.6 "R01 - Rollup by Category" Report Interpetation Guide
 The rollup by category report is a short summary of where the time went as measured by the Category buckets you create.  In the example below, the category choice was probably not all that great.  See the <a href="#introduction">Introduction]</a> for a better way to layout your categories (red-ilght/green-light).<br>
-<img src="img/img_19_report1_rollup_category.png" width="726">
+<img src="img/img_19_report1_rollup_categoryX.png" width="726">
 
 
 The report elements identified by blue dots in the screenshot above are as follows:
