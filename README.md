@@ -321,10 +321,12 @@ Numbered blue bullet points below identify the various report elements.
 
 
 <a id="reports" class="anchor" href="#reports" aria-hidden="true"> </a>
-<img align="right" src="img/img_16_report_dlg_step1.png" width="475">
 ### 5. Reports
 #### 5.1 Opening Report Wizard
 To view reports, start by cilcking the "Reports" button on the main screen's toolbar.  That will popup the Run Report Wizard consisting of two steps.<br>
+
+
+<img align="right" src="img/img_16_report_dlg_step1.png" width="475">
 
 
 #### 5.2 Step 1 - Select Report
