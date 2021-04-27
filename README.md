@@ -329,7 +329,7 @@ To view reports, start by cilcking the "Reports" button on the main screen's too
 <img align="right" src="img/img_16_report_dlg_step1.png" width="475">
 
 
-#### 5.2 Step 1 - Select Report
+#### 5.2 Step #1 - Select Report
 * **Dot #1**: Currently, there are four reports to select from in the listbox<br>
 * **Dot #2**: If you want to filter the data in the report, click the "Next" button<br>
 * **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button<br>
@@ -339,15 +339,33 @@ To view reports, start by cilcking the "Reports" button on the main screen's too
 <img align="right" src="img/img_17_report_dlg_step2.png" width="475">
 
 
-#### 5.3 Step 2 - Select Filter
+#### 5.3 Step #2 - Select Filter
 * **Dot #1**: Select option button "Filter Records", or leave default value "Show All Records" selected<br>
 * **Dot #2**: Select a saved filter that you previously created in the Filter Builder (how to build discussed below in section 5.3)<br>
 * **Dot #3**: Click "Run Report" button<br>
 * The selected report will popup in print preview mode<br>
+<br><br>
+
+<img align="right" src="img/img_18_build_filter.png" width="476">
 
 
 #### 5.3 Build Filters
-
+To edit or add a filter, click the "Build Filter" button on Step #2 of the Report Wizard. That will popup the Build Filters dialog box to the right.  Each element on the form is tagged with a blue dot corresopnding to the number list below.
+1. **Filter Name**: This is the filter name, you can type in here to rename a filter<br>
+2. **Field Name**: Each row is another filter criteria.  Start off by selecting a field whose values by which you want to constrain<br>
+3. **Operator**: Select whether you want equal, less than, greater than etc. from this dropdown (note: there is NO between operator, just use two rows with one "greater than or equal to" and the other "less than or equal to".<br>
+4. **Value**: Select a value to compare against; these are actual values from the daily entries (you cannot type a value in)<br>
+5. **Logical Operator**: If you have more than one row of filter logic, you need to tie it together with "AND" or "OR"<br>
+6. **Paranthesis**: Depending on the complexity of your filter logic, you may need to incorporate parantheses<br>
+7. **More Paranthesis**<br>
+8. **More Paranthesis**<br>
+9. **Test SQL**: Click this button to test with your filter logic entered above generates valid SQL.  Yuo will get a message box either indicating the SQL logic passes, or it fails with limited details.<br>
+10. **Add Filter**: Click this to button to add a new filter behind the form.  You will need to enter a name (blue dot#1) and make criteria selctions (blue dot#2-8).  Your add is saved as you enter data.<br>
+11. **Delete Filter**: Click this button to delete the currently selected (visible) filter.<br>
+12. **Find Filter**: Cilck this button to popup a dropdown to the right (blue dot #13)<br>
+13. **Select Filter**: Select an existing filter to jump to for editing.  Upon clicking a filter name, the drop down disappears and the form jumps to the selected filter so that you can start editing.<br>
+14. **Closee**: Click when you are done to return to the prior screen.<br>
+<br>
 
 
 #### 5.6 "R01 - Rollup by Category" Report Interpetation Guide
