@@ -346,11 +346,13 @@ To view reports, start by cilcking the "Reports" button on the main screen's too
 * The selected report will popup in print preview mode<br>
 <br><br>
 
-<img align="right" src="img/img_18_build_filter.png" width="476">
-
 
 #### 5.3 Build Filters
 To edit or add a filter, click the "Build Filter" button on Step #2 of the Report Wizard. That will popup the Build Filters dialog box to the right.  Each element on the form is tagged with a blue dot corresopnding to the number list below.
+
+<img align="right" src="img/img_18_build_filter.png" width="476">
+
+
 1. **Filter Name**: This is the filter name, you can type in here to rename a filter<br>
 2. **Field Name**: Each row is another filter criteria.  Start off by selecting a field whose values by which you want to constrain<br>
 3. **Operator**: Select whether you want equal, less than, greater than etc. from this dropdown (note: there is NO between operator, just use two rows with one "greater than or equal to" and the other "less than or equal to".<br>
