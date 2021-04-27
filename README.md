@@ -334,7 +334,7 @@ To view reports, start by cilcking the "Reports" button on the main screen's too
 * **Dot #2**: If you want to filter the data in the report, click the "Next" button<br>
 * **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button<br>
 * The selected report will popup in print preview mode<br>
-
+<br><br>
 
 <img align="right" src="img/img_17_report_dlg_step2.png" width="475">
 
