@@ -432,9 +432,20 @@ The report elements identified by blue dots in the screenshot above are as follo
 <br>
 
 
+#### 5.7 "R06 - Task by Category" Report Interpetation Guide
+The "Task by Category" report is virtually identical to the "Task by Project" in the previous section.  Only difference is it groups by Category rather than Project.<br>
+
+
+
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
 ### 6. Upgrade/Import
 #### 6.1 Introduction
+<img src="img/img_22_report4_task_by_project.png" width="456">
+Although infrequent, occasionally a new version of "My Task Time Tracker" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right,  addresses this issue by importing all user data tables into the new application copy.<br>
+
+
+#### 6.1 How To Import
+1. xxx
 
 
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
@@ -454,6 +465,8 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 <img align="right" src="img/img_20_jump_stops.png" width="284">
 "Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.
 
+
+- Routinely backup your .ACCDB file
 
 
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
