@@ -462,11 +462,12 @@ Although infrequent, occasionally a new version of "My Task Time Tracker" is rel
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
 ### 7. "About" Worksheet
 <img align="right" src="img/img_24_about.png" width="427">
-The "About" worksheet accomplishes a few goals. It informs the user...<br>
+The "About" worksheet accomplishes a few goals. It informs the user...
 1. The "application" name and version.<br>
 2. Where to watch training videos no YouTube.<br>
 3. Where to find the online docs at GitHub.<br>
-4. That the tool and all documentation are Creative Commons Zero license...effectively Public Domain which means I grant you full and free usage.<br><br>
+4. That the tool and all documentation are Creative Commons Zero license...effectively Public Domain which means I grant you full and free usage.<br>
+<br>
 I hope it helps you in your company and makes you more productive.  I am happy for you if you extend and modify or alter the tool.  Do what you need to do...that's what the About worksheet indicates.  One caveat, please do click the GitHub star button for this project, and visit the YouTube site and subscribe at www.dataresearchlabs.com.<br>
 
 
