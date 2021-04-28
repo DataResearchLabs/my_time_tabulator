@@ -506,18 +506,18 @@ It is a good practice to routinely backup your .ACCDB file.
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
 ### 9. Wrap Up
 #### 9.1 Thank You
-Thank you very much for reading all the way down to the end of the documentation.  Time is valuable and ever more scarce in today's busy world.  Few people make it this far.  If you did, I hope that means you found value in this tool.  I hope it makes you more productive.  I am happy if you adopt the application then change and evolve it to meet your needs (simply open the .ACCDB file with the Shift-Key held down to access all the source code).  I am happy if you fork this repository and build your own.  I am happy and would roll-in to the master branch any chanes you might make from which others may benefit. Thank you for your use and support.<br>
+Thank you very much for reading all the way down to the end of the documentation.  Time is valuable and ever more scarce in today's busy world.  Few people make it this far.  If you did, I hope that means you found value in this tool.  I hope it makes you more productive.  I am happy if you adopt the application then change and evolve it to meet your needs (simply open the .ACCDB file with the Shift-Key held down to access all the source code).  I am happy if you fork this repository and build your own.  I am happy and would roll-in to the master branch any changes you might make from which others may benefit. Thank you for your use and support.<br>
 
 
 #### 9.2 YouTube Training & Resources
-If you like this tool, please visit and subscribe to my YouTube site at http://www.dataresearchlabs.com and check out video training for this "product" as well as other related tools and training.<br>
+If you like this tool, please visit and subscribe to the YouTube site at http://www.dataresearchlabs.com and check out video training for this "product" as well as other related tools and data or testing processes.<br>
 
 
 #### 9.3 MTCM History
-"My Test Case Manager" has been a work in progress, arriving at version 5.x over the last two plus decades.<br>
+"My Task Time Tracker" has been a work in progress, arriving at version 4.02.xx over the last two plus decades.<br>
 
-* **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school....<br>
-* **Ver 2.x** - In late 1999, I started my first freeware hobby site "pb-sys.com" for Pierce Business Systems (retired in 2003).  Billit vXXX was last deployed in XXXXXXXXXXX.  This version was pretty extensive.  It had many screens, many reports, XXXXXXXXXXXXXXXXXXXXXX.  You can [check it out here on the wayback machine](https://web.archive.org/web/20000611181859/http://www.pb-sys.com/).  XXXXXXXXXXXXXXXXXXXXXXXXXXX.<br>
+* **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school.  I no longer have access to any of that.<br>
+* **Ver 2.x** - In late 1999, I started my first freeware hobby site "pb-sys.com" for Pierce Business Systems (retired in 2003).  Billit V2.55 was last deployed in October 2, 2000.  This version was pretty extensive.  I used it for my side business at the time to bill clients and generate invoices.  It had many more screens and more reports than the slimmed down version 4.xx "My Task Time Tracker" does today.  You can [check it out here on the wayback machine](https://web.archive.org/web/20030510162215fw_/http://www.matpie.drw.net/PBSystems/products/retired/Billit.html).<br>
 * **Ver 3.x** - Between 200x and XXXX, for the next 15 years I used some modified and downsized version of Billit, keeping it current in the most recent version of Microsoft Access.  XXXXXXXXXXXXXXXXX  Over the next 10 years, I occasionally modified and used various incarnations of TCMLite for my day job.  In 2013, I used it fairly heavily for about a year at an insurance company to test software.<br>
 * **Ver 4.x** - In early 2021, I started my third hobby site; this time not freeware focus but YouTube training focussed.  DataResearchLabs.com is slowly growing and I'd like YouTube viewership and gitHub visit/downloads to grow faster.  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
 <br>
