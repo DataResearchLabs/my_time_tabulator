@@ -476,7 +476,6 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 <a id="advancedTopics" class="anchor" href="#advancedTopics" aria-hidden="true"> </a>
 ### 8. Advanced Tips & Tricks
 #### 8.1 Rollup the Access Toolbar 
-<img align="right" src="img/img_20_jump_stops.png" width="284">
 "Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.<br>
 <br>
 
