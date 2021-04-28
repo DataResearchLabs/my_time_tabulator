@@ -5,6 +5,7 @@
 
 <ins>**V4.02.44313  -  2021.04.27**</ins><br>
 1. CHANGE - Add Report "R06 - Tasks by Category"<br>
+2. DEFECT - Fixed long standing bug where task dropdown not updated after user  changes task settings in Edit Tasks screen (unless user clicks filter buttons to reload dropdown data...now is auto-updated.  Also, same fix for Import data feature.  Now dropdowns immediately updated with new data after import.<br>
 <br>
 
 
