@@ -475,9 +475,13 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 
 <a id="advancedTopics" class="anchor" href="#advancedTopics" aria-hidden="true"> </a>
 ### 8. Advanced Tips & Tricks
-#### 8.1 Rollup the Toolbar 
+#### 8.1 Rollup the Access Toolbar 
 <img align="right" src="img/img_20_jump_stops.png" width="284">
-"Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.
+"Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.  Click the button at Blue Dot #1 to rollup the toolbar.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (then click the Tack button where Blue Dot#1 is on the last screen to fix the toolbar in place).
+<img src="img/img_25_tip_rollup_toolbar.png" width="1133">
+<img src="img/img_26_tip_expand_toolbar.png" width="1133">
+
+
 
 
 - Routinely backup your .ACCDB file
