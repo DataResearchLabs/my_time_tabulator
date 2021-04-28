@@ -478,13 +478,17 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 #### 8.1 Rollup the Access Toolbar 
 <img align="right" src="img/img_20_jump_stops.png" width="284">
 "Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.  Click the button at Blue Dot #1 to rollup the toolbar.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (then click the Tack button where Blue Dot#1 is on the last screen to fix the toolbar in place).
+
+**Before** (Notice the visible toolbar taking up vertical space)<br>
 <img src="img/img_25_tip_rollup_toolbar.png" width="1133">
+**After** (Notice minimal clutter)<br>
 <img src="img/img_26_tip_expand_toolbar.png" width="1133">
+<br>
 
 
+#### 8.2 - Routinely backup your .ACCDB file
 
 
-- Routinely backup your .ACCDB file
 
 
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
