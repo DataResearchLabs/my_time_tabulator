@@ -3,6 +3,11 @@
 # My Task Time Tracker (MTTT) 
 
 
+<ins>**V4.02.44313  -  2021.04.27**</ins><br>
+1. CHANGE - Add Report "R06 - Tasks by Category"<br>
+<br>
+
+
 <ins>**V4.02.44311  -  2021.04.25**</ins><br>
 1. DEFECT - At "Edit Tasks" dialog, re-enable project selector so can move tasks to other projects if necessary<br>
 2. CHANGE - Gannt chart report character flipped back to fixed width font and solid block character and blue color<br>
