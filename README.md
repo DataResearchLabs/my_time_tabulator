@@ -440,7 +440,7 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
 ### 6. Upgrade/Import
 #### 6.1 Introduction
-<img src="img/img_23_import_button_on_toolbar.png" width="456">
+<img align="right" src="img/img_23_import_button_on_toolbar.png" width="456">
 Although infrequent, occasionally a new version of "My Task Time Tracker" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right,  addresses this issue by importing all user data tables into the new application copy.<br>
 
 
@@ -461,13 +461,13 @@ Although infrequent, occasionally a new version of "My Task Time Tracker" is rel
 
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
 ### 7. "About" Worksheet
-<img align="right" src="img/img_19_about_screen.png" width="489">
+<img align="right" src="img/img_24_about.png" width="427">
 The "About" worksheet accomplishes a few goals. It informs the user...<br>
 1. The "application" name and version.<br>
-2. Where to watch training videos.<br>
-3. Where to find the online docs.<br>
+2. Where to watch training videos no YouTube.<br>
+3. Where to find the online docs at GitHub.<br>
 4. That the tool and all documentation are Creative Commons Zero license...effectively Public Domain which means I grant you full and free usage.<br><br>
-I hope it helps you in your company and makes you more productive.  I am happy for you if you extend and modify or alter the tool.  Do what you need to do...that's what the About worksheet indicates.  One caveat, please do click the GitHub star button for this project, and visit my YouTube site and subscribe at www.dataresearchlabs.com. <br>
+I hope it helps you in your company and makes you more productive.  I am happy for you if you extend and modify or alter the tool.  Do what you need to do...that's what the About worksheet indicates.  One caveat, please do click the GitHub star button for this project, and visit the YouTube site and subscribe at www.dataresearchlabs.com.<br>
 
 
 <a id="advancedTopics" class="anchor" href="#advancedTopics" aria-hidden="true"> </a>
