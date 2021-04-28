@@ -462,7 +462,9 @@ Although infrequent, occasionally a new version of "My Task Time Tracker" is rel
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
 ### 7. "About" Worksheet
 <img align="right" src="img/img_24_about.png" width="427">
-The "About" worksheet accomplishes a few goals. It informs the user...
+The "About" worksheet accomplishes a few goals. It informs the user...<br>
+
+
 1. The "application" name and version.<br>
 2. Where to watch training videos no YouTube.<br>
 3. Where to find the online docs at GitHub.<br>
