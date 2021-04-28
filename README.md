@@ -484,7 +484,7 @@ Notice the visible toolbar taking up vertical space.  Click the button at Blue D
 <img src="img/img_25_tip_rollup_toolbar.png" width="1133">
 <br>
 **After Screenshot:**<br>
-Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (then click the Tack button where Blue Dot#1 is on the last screen to fix the toolbar in place).<br>
+Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (you can optionally click the Tack button which will appear where Blue Dot#1 is on the prior screen above -- this will fix the toolbar in place).<br>
 <img src="img/img_26_tip_expand_toolbar.png" width="1133">
 <br>
 
@@ -499,6 +499,7 @@ It is a good practice to routinely backup your .ACCDB file.
   * Copy-paste your "MyTaskTimeTracker.accdb" file (application and data combined)<br>
   * Paste into a backup subfolder (e.g.: "MyTaskTimeTrackerFolder\backups")<br>
   * Rename the file by tacking on the date (e.g.: "MyTaskTimeTracker_20210427.accdb")<br>
+<br>
 <br>
 
 
