@@ -518,9 +518,7 @@ If you like this tool, please visit and subscribe to the YouTube site at http://
 
 * **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school.  I no longer have access to any of that.<br>
 * **Ver 2.x** - In late 1999, I started my first freeware hobby site "pb-sys.com" for Pierce Business Systems (retired in 2003).  Billit V2.55 was last deployed in October 2, 2000.  This version was pretty extensive.  I used it for my side business at the time to bill clients and generate invoices.  It had many more screens and more reports than the slimmed down version 4.xx "My Task Time Tracker" does today.  You can [check it out here on the wayback machine](https://web.archive.org/web/20030510162215fw_/http://www.matpie.drw.net/PBSystems/products/retired/Billit.html).<br>
-* **Ver 3.x** - Between 200x and XXXX, for the next 15 years I used some modified and downsized version of Billit, keeping it current in the most recent version of Microsoft Access.  XXXXXXXXXXXXXXXXX  Over the next 10 years, I occasionally modified and used various incarnations of TCMLite for my day job.  In 2013, I used it fairly heavily for about a year at an insurance company to test software.<br>
-* **Ver 4.x** - In early 2021, I started my third hobby site; this time not freeware focus but YouTube training focussed.  DataResearchLabs.com is slowly growing and I'd like YouTube viewership and gitHub visit/downloads to grow faster.  XXXXXXXXXXXXXXXXXXXXXXXXXXXXX<br>
+* **Ver 3.x** - Between 2003 and 2021, for the next 18 years I used slowly modified and downsized Billit, keeping it current in the most recent version of Microsoft Access.  I used it every day for my regular job just to track tasks, monitor progress, etc.  However, I never publicly release any of the leaned down Version 3.x builds.<br>
+* **Ver 4.x** - In early 2021, I started DataResearchLabs as my third hobby site; an amalgam of YouTube training videos, GitHub code portfolio, and Medium research and review articles.  Figured it was time to re-release a cleaned up version of the application, and so "My Task Time Tracker" was built and release.<br>
 <br>
-
-
 
