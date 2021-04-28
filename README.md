@@ -440,12 +440,23 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
 ### 6. Upgrade/Import
 #### 6.1 Introduction
-<img src="img/img_22_report4_task_by_project.png" width="456">
+<img src="img/img_23_import_button_on_toolbar.png" width="456">
 Although infrequent, occasionally a new version of "My Task Time Tracker" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right,  addresses this issue by importing all user data tables into the new application copy.<br>
 
 
 #### 6.1 How To Import
-1. xxx
+1. IMPORTANT! The first step you do is make a backup copy of your current "MyTaskTimeTracker.accdb" file into a different folder as a precaution (so you can always rollback and use it again,as-is.<br>
+2. IMPORTANT! The next step you do is rename your current "MyTaskTimeTracker.accdb" file so to something like "MyTaskTimeTracker_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
+3. Next download the latest "MyTaskTimeTracker.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)<br>
+4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTaskTimeTracker_OLD.accdb" exists<br>
+5. Open the new (empty) file "MyTaskTimeTracker.accdb".  Notice that the "Import" button is enabled.<br>
+6. Click the "Import" button.<br>  
+7. Click 'Yes" to the prompt because you are indeed certain that you want to import data from an older copy.<br>
+8. In the File Selector dialog, click the file "MyTaskTimeTracker_OLD.accdb" and click the Open button.<br>
+9. You will likely be prompted with "Microsoft Access Security Notice" popups, one for every table imported (10 times total).  SIMPLY CLICK OPEN each time this dialog pops up (or you could have opened the "MyTaskTimeTracker_OLD.accdb" after you renamed it and cleared the first time open security there to avoid these steps.<br>
+10. Once you are done clicking Open to all those security dialogs, YOUR DATA IS LOADED.<br>
+11. Click back a day or a week, or even better run a report to confirm that all your data loaded properly.<br>
+<br>
 
 
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
