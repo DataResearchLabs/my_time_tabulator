@@ -477,18 +477,30 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 ### 8. Advanced Tips & Tricks
 #### 8.1 Rollup the Access Toolbar 
 <img align="right" src="img/img_20_jump_stops.png" width="284">
-"Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.  Click the button at Blue Dot #1 to rollup the toolbar.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (then click the Tack button where Blue Dot#1 is on the last screen to fix the toolbar in place).
+"Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.<br>
+<br>
 
-**Before** (Notice the visible toolbar taking up vertical space)<br>
+**Before Screenshot:**<br> 
+Notice the visible toolbar taking up vertical space.  Click the button at Blue Dot #1 to rollup the toolbar.<br>
 <img src="img/img_25_tip_rollup_toolbar.png" width="1133">
-**After** (Notice minimal clutter)<br>
+<br>
+**After Screenshot:**<br>
+Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (then click the Tack button where Blue Dot#1 is on the last screen to fix the toolbar in place).<br>
 <img src="img/img_26_tip_expand_toolbar.png" width="1133">
 <br>
 
 
 #### 8.2 - Routinely backup your .ACCDB file
+It is a good practice to routinely backup your .ACCDB file.  
 
 
+* If you have Microsoft OneDrive automatically backing up the folder where your "MyTaskTimeTracker.accdb" file resides, then you are fine.<br>
+* If you have some other backup service capture the file, then you are fine.<br>
+* If not to the above two bullets, then consider setting up a meeting in your Outlook or equivalent scheduler as a reminder to periodically (weekly? monthly?) go in and manually backup your file:<br>
+  * Copy-paste your "MyTaskTimeTracker.accdb" file (application and data combined)<br>
+  * Paste into a backup subfolder (e.g.: "MyTaskTimeTrackerFolder\backups")<br>
+  * Rename the file by tacking on the date (e.g.: "MyTaskTimeTracker_20210427.accdb")<br>
+<br>
 
 
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
