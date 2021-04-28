@@ -506,7 +506,7 @@ It is a good practice to routinely backup your .ACCDB file.
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
 ### 9. Wrap Up
 #### 9.1 Thank You
-Thank you very much for reading all the way down to the end of the documentation.  Time is valuable and ever more scarce in today's busy world.  Few people make it this far.  If you did, I hope that means you found value in this tool / spreadsheet / "software".  I hope it makes you and/or your team more productive.  I am happy if you adopt the spreadsheet then change and evolve it to meet your needs.  I am happy if you fork this repository and build your own.  I am happy and would roll-in to the master branch any chanes you might make from which other may benefit. Thank you for your use and support.<br>
+Thank you very much for reading all the way down to the end of the documentation.  Time is valuable and ever more scarce in today's busy world.  Few people make it this far.  If you did, I hope that means you found value in this tool.  I hope it makes you more productive.  I am happy if you adopt the application then change and evolve it to meet your needs (simply open the .ACCDB file with the Shift-Key held down to access all the source code).  I am happy if you fork this repository and build your own.  I am happy and would roll-in to the master branch any chanes you might make from which others may benefit. Thank you for your use and support.<br>
 
 
 #### 9.2 YouTube Training & Resources
