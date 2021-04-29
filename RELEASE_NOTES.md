@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
 
-# My Task Time Tracker (MTTT) 
+# My Time Tabulator (MTT) 
 
 
 <ins>**V4.02.44314  -  2021.04.28**</ins><br>
