@@ -55,8 +55,8 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
 
 2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"
-    * Managers are too busy to notice all the great work you do...so package it up into easily digestible projects, tasks, times, and dates.<br>
-    * Sell your work story...because nobody else is going to do it for you.<br>
+    * Managers are too busy to notice all the great work you do...so package it up into easily digestible projects, tasks, times, and dates.<br>
+    * Sell your work story...because nobody else is going to do it for you.<br>
 
 3. **Red Light - Green Light**: Wouldn't it be nice to tag and rollup all your tasks to identify activities like meetings that are potentially misusing or even wasting time:
     * **Green Light**: What you were hired to do<br>
@@ -102,15 +102,15 @@ So, why would you want to download and use this Microsoft Access application tyi
 
 #### 2.1 Download
 To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
-1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)
+1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)
 2. Then click the download button
 3. Then cilck the 'Open Folder' button (or '...' button) at browser Open File popup
-4. Then copy the "MyTaskTimeTracker.accdb" file
+4. Then copy the "MyTimeTabulator.accdb" file
 
 
 #### 2.2 Deploy
 1. Identify or create a "parent" folder (referred to as "$" henceforth) somewhere on your computer that is the "root" to house all the test case data files.  For example: "c:\tools\my_task_time_tracker" could be your root folder.
-2. Paste a copy of the downloaded "MyTaskTimeTracker.accdb" into the new "$" folder
+2. Paste a copy of the downloaded "MyTimeTabulator.accdb" into the new "$" folder
 3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walk thru how to customize an icon for that shortcut.
 <br>
 
@@ -118,10 +118,10 @@ To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
 #### 3.1 First Open / Security Notice
-The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
+The first time you open MyTimeTabulator.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
   * The screenshot below shows the security warning message (blue dot #1).<br>
   * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
-  * Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.<br>
+  * Once done, you will not be asked again, unless you move the MyTimeTabulator.accdb file into a different folder.<br>
 <img src="img/img_02_first_load_security_prompt.png" width="794">
 <br>
 
@@ -436,19 +436,19 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 ### 6. Upgrade/Import
 #### 6.1 Introduction
 <img align="right" src="img/img_23_import_button_on_toolbar.png" width="456">
-Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
+Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTimeTabulator.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
 
 
 #### 6.1 How To Import
-1. IMPORTANT! The first step you do is make a backup copy of your current "MyTaskTimeTracker.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
-2. IMPORTANT! The next step you do is rename your current "MyTaskTimeTracker.accdb" file so to something like "MyTaskTimeTracker_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
-3. Next download the latest "MyTaskTimeTracker.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)<br>
-4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTaskTimeTracker_OLD.accdb" exists<br>
-5. Open the new (empty) file "MyTaskTimeTracker.accdb".  Notice that the "Import" button is enabled.<br>
+1. IMPORTANT! The first step you do is make a backup copy of your current "MyTimeTabulator.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
+2. IMPORTANT! The next step you do is rename your current "MyTimeTabulator.accdb" file so to something like "MyTimeTabulator_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
+3. Next download the latest "MyTimeTabulator.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)<br>
+4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTimeTabulator_OLD.accdb" exists<br>
+5. Open the new (empty) file "MyTimeTabulator.accdb".  Notice that the "Import" button is enabled.<br>
 6. Click the "Import" button.<br>  
 7. Click 'Yes" to the prompt because you are indeed certain that you want to import data from an older copy.<br>
-8. In the File Selector dialog, click the file "MyTaskTimeTracker_OLD.accdb" and click the Open button.<br>
-9. You will likely be prompted with "Microsoft Access Security Notice" popups, one for every table imported (10 times total).  SIMPLY CLICK OPEN each time this dialog pops up (or you could have opened the "MyTaskTimeTracker_OLD.accdb" after you renamed it and cleared the first time open security there to avoid these steps.<br>
+8. In the File Selector dialog, click the file "MyTimeTabulator_OLD.accdb" and click the Open button.<br>
+9. You will likely be prompted with "Microsoft Access Security Notice" popups, one for every table imported (10 times total).  SIMPLY CLICK OPEN each time this dialog pops up (or you could have opened the "MyTimeTabulator_OLD.accdb" after you renamed it and cleared the first time open security there to avoid these steps.<br>
 10. Once you are done clicking Open to all those security dialogs, YOUR DATA IS LOADED.<br>
 11. Click back a day or a week, or even better run a report to confirm that all your data loaded properly.<br>
 <br>
@@ -488,12 +488,12 @@ Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand 
 It is a good practice to routinely backup your .ACCDB file.  
 
 
-* If you have Microsoft OneDrive automatically backing up the folder where your "MyTaskTimeTracker.accdb" file resides, then you are fine.<br>
+* If you have Microsoft OneDrive automatically backing up the folder where your "MyTimeTabulator.accdb" file resides, then you are fine.<br>
 * If you have some other backup service capture the file, then you are fine.<br>
 * If not to the above two bullets, then consider setting up a meeting in your Outlook or equivalent scheduler as a reminder to periodically (weekly? monthly?) go in and manually backup your file:<br>
-  * Copy-paste your "MyTaskTimeTracker.accdb" file (application and data combined)<br>
-  * Paste into a backup subfolder (e.g.: "MyTaskTimeTrackerFolder\backups")<br>
-  * Rename the file by tacking on the date (e.g.: "MyTaskTimeTracker_20210427.accdb")<br>
+  * Copy-paste your "MyTimeTabulator.accdb" file (application and data combined)<br>
+  * Paste into a backup subfolder (e.g.: "MyTimeTabulatorFolder\backups")<br>
+  * Rename the file by tacking on the date (e.g.: "MyTimeTabulator_20210427.accdb")<br>
 <br>
 <br>
 
@@ -569,8 +569,8 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
 
 2. **Your Story**: "It is performance review time...what did you accomplish last quarter or last year?"
-    * Managers are too busy to notice all the great work you do...so package it up into easily digestible projects, tasks, times, and dates.<br>
-    * Sell your work story...because nobody else is going to do it for you.<br>
+    * Managers are too busy to notice all the great work you do...so package it up into easily digestible projects, tasks, times, and dates.<br>
+    * Sell your work story...because nobody else is going to do it for you.<br>
 
 3. **Red Light - Green Light**: Wouldn't it be nice to tag and rollup all your tasks to identify activities like meetings that are potentially misusing or even wasting time:
     * **Green Light**: What you were hired to do<br>
@@ -616,15 +616,15 @@ So, why would you want to download and use this Microsoft Access application tyi
 
 #### 2.1 Download
 To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
-1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)
+1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)
 2. Then click the download button
 3. Then cilck the 'Open Folder' button (or '...' button) at browser Open File popup
-4. Then copy the "MyTaskTimeTracker.accdb" file
+4. Then copy the "MyTimeTabulator.accdb" file
 
 
 #### 2.2 Deploy
 1. Identify or create a "parent" folder (referred to as "$" henceforth) somewhere on your computer that is the "root" to house all the test case data files.  For example: "c:\tools\my_task_time_tracker" could be your root folder.
-2. Paste a copy of the downloaded "MyTaskTimeTracker.accdb" into the new "$" folder
+2. Paste a copy of the downloaded "MyTimeTabulator.accdb" into the new "$" folder
 3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walk thru how to customize an icon for that shortcut.
 <br>
 
@@ -632,10 +632,10 @@ To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
 ### 3. Getting Started, Configure the Metadata
 #### 3.1 First Open / Security Notice
-The first time you open MyTaskTimeTracker.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
+The first time you open MyTimeTabulator.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
   * The screenshot below shows the security warning message (blue dot #1).<br>
   * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
-  * Once done, you will not be asked again, unless you move the MyTaskTimeTracker.accdb file into a different folder.<br>
+  * Once done, you will not be asked again, unless you move the MyTimeTabulator.accdb file into a different folder.<br>
 <img src="img/img_02_first_load_security_prompt.png" width="794">
 <br>
 
@@ -950,19 +950,19 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 ### 6. Upgrade/Import
 #### 6.1 Introduction
 <img align="right" src="img/img_23_import_button_on_toolbar.png" width="456">
-Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
+Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTimeTabulator.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
 
 
 #### 6.1 How To Import
-1. IMPORTANT! The first step you do is make a backup copy of your current "MyTaskTimeTracker.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
-2. IMPORTANT! The next step you do is rename your current "MyTaskTimeTracker.accdb" file so to something like "MyTaskTimeTracker_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
-3. Next download the latest "MyTaskTimeTracker.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)<br>
-4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTaskTimeTracker_OLD.accdb" exists<br>
-5. Open the new (empty) file "MyTaskTimeTracker.accdb".  Notice that the "Import" button is enabled.<br>
+1. IMPORTANT! The first step you do is make a backup copy of your current "MyTimeTabulator.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
+2. IMPORTANT! The next step you do is rename your current "MyTimeTabulator.accdb" file so to something like "MyTimeTabulator_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
+3. Next download the latest "MyTimeTabulator.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)<br>
+4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTimeTabulator_OLD.accdb" exists<br>
+5. Open the new (empty) file "MyTimeTabulator.accdb".  Notice that the "Import" button is enabled.<br>
 6. Click the "Import" button.<br>  
 7. Click 'Yes" to the prompt because you are indeed certain that you want to import data from an older copy.<br>
-8. In the File Selector dialog, click the file "MyTaskTimeTracker_OLD.accdb" and click the Open button.<br>
-9. You will likely be prompted with "Microsoft Access Security Notice" popups, one for every table imported (10 times total).  SIMPLY CLICK OPEN each time this dialog pops up (or you could have opened the "MyTaskTimeTracker_OLD.accdb" after you renamed it and cleared the first time open security there to avoid these steps.<br>
+8. In the File Selector dialog, click the file "MyTimeTabulator_OLD.accdb" and click the Open button.<br>
+9. You will likely be prompted with "Microsoft Access Security Notice" popups, one for every table imported (10 times total).  SIMPLY CLICK OPEN each time this dialog pops up (or you could have opened the "MyTimeTabulator_OLD.accdb" after you renamed it and cleared the first time open security there to avoid these steps.<br>
 10. Once you are done clicking Open to all those security dialogs, YOUR DATA IS LOADED.<br>
 11. Click back a day or a week, or even better run a report to confirm that all your data loaded properly.<br>
 <br>
@@ -1002,12 +1002,12 @@ Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand 
 It is a good practice to routinely backup your .ACCDB file.  
 
 
-* If you have Microsoft OneDrive automatically backing up the folder where your "MyTaskTimeTracker.accdb" file resides, then you are fine.<br>
+* If you have Microsoft OneDrive automatically backing up the folder where your "MyTimeTabulator.accdb" file resides, then you are fine.<br>
 * If you have some other backup service capture the file, then you are fine.<br>
 * If not to the above two bullets, then consider setting up a meeting in your Outlook or equivalent scheduler as a reminder to periodically (weekly? monthly?) go in and manually backup your file:<br>
-  * Copy-paste your "MyTaskTimeTracker.accdb" file (application and data combined)<br>
-  * Paste into a backup subfolder (e.g.: "MyTaskTimeTrackerFolder\backups")<br>
-  * Rename the file by tacking on the date (e.g.: "MyTaskTimeTracker_20210427.accdb")<br>
+  * Copy-paste your "MyTimeTabulator.accdb" file (application and data combined)<br>
+  * Paste into a backup subfolder (e.g.: "MyTimeTabulatorFolder\backups")<br>
+  * Rename the file by tacking on the date (e.g.: "MyTimeTabulator_20210427.accdb")<br>
 <br>
 <br>
 
