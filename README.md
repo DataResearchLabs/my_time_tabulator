@@ -456,7 +456,7 @@ Although infrequent, occasionally a new version of "My Time Tabulator" is releas
 
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
 ### 7. "About" Worksheet
-<img align="right" src="img/img_24_about.png" width="427">
+<img align="right" src="img/img_24_aboutX.png" width="427">
 The "About" worksheet accomplishes a few goals. It informs the user...<br>
 
 
@@ -476,11 +476,11 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 
 **Before Screenshot:**<br> 
 Notice the visible toolbar taking up vertical space.  Click the button at Blue Dot #1 to rollup the toolbar.<br>
-<img src="img/img_25_tip_rollup_toolbar.png" width="1133">
+<img src="img/img_25_tip_rollup_toolbarX.png" width="1133">
 <br>
 **After Screenshot:**<br>
 Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand the toolbar (you can optionally click the Tack button which will appear where Blue Dot#1 is on the prior screen above -- this will fix the toolbar in place).<br>
-<img src="img/img_26_tip_expand_toolbar.png" width="1133">
+<img src="img/img_26_tip_expand_toolbarX.png" width="1133">
 <br>
 
 
