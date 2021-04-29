@@ -122,13 +122,13 @@ The first time you open MyTimeTabulator.accdb, Microsoft Access security is goin
   * The screenshot below shows the security warning message (blue dot #1).<br>
   * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
   * Once done, you will not be asked again, unless you move the MyTimeTabulator.accdb file into a different folder.<br>
-<img src="img/img_02_first_load_security_prompt.png" width="794">
+<img src="img/img_02_first_load_security_promptX.png" width="794">
 <br>
 
 
 #### 3.2 "Landing Page" = Main Form
 The "landing page" that first pops up happens to also be the main page where you will do all your time entries and from which you can launch various popup metadata entry forms, run analysis reports, etc.  The form layout is:
-<img align="right" src="img/img_03_landing_form_empty.png" width="544">
+<img align="right" src="img/img_03_landing_form_emptyX.png" width="544">
 1. **Form Header**: At blue dot #1 contains the application name, version, and DataResearchLabs logo.  It also contains your company name and your name which we will fill out soon.<br>
 2. **Toolbar**: At blue dot #2 contains buttons to perform various actions such as populating metadata (properties, projects, categories, and tasks), or running reports (timecard, tasks by project or category, etc.).
 3. **Navigation**: At blue dot #3 contains buttons to move the view around to different days, or to save the current days entries or changes.  There are three left buttons and three right buttons. The "|<<" and "|>>" buttons move all the way to the end (first or last) day.  The "<<" and ">>" buttons move backward or forward one week.  The "<" and ">" buttons move backwards or forwards one day.  The 3.5" floppy disk button saves the daily entries changed below.
