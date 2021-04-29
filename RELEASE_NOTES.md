@@ -3,6 +3,11 @@
 # My Task Time Tracker (MTTT) 
 
 
+<ins>**V4.02.44314  -  2021.04.28**</ins><br>
+1. CHANGE - Changed application name to make it more unique so that others can search and find it, and I can track it easier.  Old name = "My Time Tracker", then for about 2 weeks "My Task Time Tracker", and now landed on "My Time Tabulator" on eve of release.<br>
+<br>
+
+
 <ins>**V4.02.44313  -  2021.04.27**</ins><br>
 1. CHANGE - Add Report "R06 - Tasks by Category"<br>
 2. DEFECT - Fixed long standing bug where task dropdown not updated after user  changes task settings in Edit Tasks screen (unless user clicks filter buttons to reload dropdown data...now is auto-updated.  Also, same fix for Import data feature.  Now dropdowns immediately updated with new data after import.<br>
