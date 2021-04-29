@@ -1,6 +1,6 @@
 <img align="left" src="https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/img/application_icon.png" width="64px">
 
-# My Task Time Tracker
+# My Time Tabulator (MTT)
 [![License: CC0](https://img.shields.io/badge/License-CC0-red)](LICENSE "Creative Commons Zero License by DataResearchLabs (effectively = Public Domain")
 ![current_build Office_365](https://img.shields.io/badge/Access_Version-Office_365-yellow)
 [![Latest Release](https://img.shields.io/badge/Latest_Release-4.02.44311-blue)](https://github.com/DataResearchLabs/my_task_time_tracker/tree/main/download)
@@ -101,7 +101,7 @@ So, why would you want to download and use this Microsoft Access application tyi
 ### 2. Installation
 
 #### 2.1 Download
-To download the "My Task Time Tracker" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
+To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
 1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTaskTimeTracker.accdb)
 2. Then click the download button
 3. Then cilck the 'Open Folder' button (or '...' button) at browser Open File popup
@@ -436,7 +436,7 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 ### 6. Upgrade/Import
 #### 6.1 Introduction
 <img align="right" src="img/img_23_import_button_on_toolbar.png" width="456">
-Although infrequent, occasionally a new version of "My Task Time Tracker" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
+Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTaskTimeTracker.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
 
 
 #### 6.1 How To Import
@@ -509,11 +509,11 @@ If you like this tool, please visit and subscribe to the YouTube site at http://
 
 
 #### 9.3 MTCM History
-"My Task Time Tracker" has been a work in progress, arriving at version 4.02.xx over the last two plus decades.<br>
+"My Time Tabulator" has been a work in progress, arriving at version 4.02.xx over the last two plus decades.<br>
 
 * **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school.  I no longer have access to any of that.<br>
 * **Ver 2.x** - In late 1999, I started my first freeware hobby site "pb-sys.com" for Pierce Business Systems (retired in 2003).  Billit V2.55 was last deployed in October 2, 2000.  This version was pretty extensive.  I used it for my side business at the time to bill clients and generate invoices.  It had many more screens and more reports than the slimmed down version 4.xx "My Task Time Tracker" does today.  You can [check it out here on the Wayback Machine](https://web.archive.org/web/20030510162215fw_/http://www.matpie.drw.net/PBSystems/products/retired/Billit.html).<br>
 * **Ver 3.x** - Between 2003 and 2021, for the next 18 years I used slowly modified and downsized Billit, keeping it current in the most recent version of Microsoft Access.  I used it every day for my regular job just to track tasks, monitor progress, etc.  However, I never publicly release any of the leaned down Version 3.x builds.<br>
-* **Ver 4.x** - In early 2021, I started DataResearchLabs as my third hobby site; an amalgam of YouTube training videos, GitHub code portfolio, and Medium research and review articles.  Figured it was time to re-release a cleaned up version of the application, and so "My Task Time Tracker" was built and release.<br>
+* **Ver 4.x** - In early 2021, I started DataResearchLabs as my third hobby site; an amalgam of YouTube training videos, GitHub code portfolio, and Medium research and review articles.  Figured it was time to re-release a cleaned up version of the application, and so "My Time Tabulator" was built and release.<br>
 <br>
 
