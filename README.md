@@ -19,7 +19,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
 <a href="https://youtu.be/e4_ZfRGVlc4">
-<img src="img/img_27_thumbnail_overview.png">
+<img style="border:10px outset silver"; src="img/img_27_thumbnail_overview.png">
 </a>
 <br>
 <br>
