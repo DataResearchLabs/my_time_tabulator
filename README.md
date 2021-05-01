@@ -522,7 +522,7 @@ Thank you very much for reading all the way down to the end of the documentation
 If you like this tool, please visit and subscribe to the YouTube site at http://www.dataresearchlabs.com and check out video training for this "product" as well as other related tools and data or testing processes.<br>
 
 
-#### 9.3 MTCM History
+#### 9.3 "My Time Tabulator" History
 "My Time Tabulator" has been a work in progress, arriving at version 4.02.xx over the last two plus decades.<br>
 
 * **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school.  I no longer have access to any of that.<br>
