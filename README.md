@@ -24,20 +24,17 @@ To watch the "Overview Tutorial" below, right-click it and select "open link in 
 </a>
 <br>
 <br>
+***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
+<br>
+***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
+<br>
+<br>
 
 <kbd>
   <img src="img/img_01_showcase_app_features.png" width="1123">
 </kbd>
 <br>
 <br>
-<br>
-
-
-***If you like this tool, be sure to click the "Star" button above in GitHub.***
-
-
-***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
-
 <br>
 
 
