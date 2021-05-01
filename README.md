@@ -111,8 +111,8 @@ To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this 
 
 
 #### 2.2 Deploy
-1. Identify or create a "parent" folder (referred to as "$" henceforth) somewhere on your computer that is the "root" to house all the test case data files.  For example: "c:\tools\my_task_time_tracker" could be your root folder.
-2. Paste a copy of the downloaded "MyTimeTabulator.accdb" into the new "$" folder
+1. Identify or create a "target install" folder somewhere on your computer.  For example: "c:\tools\my_time_tabulator".
+2. Paste a copy of the downloaded "MyTimeTabulator.accdb" into the "target install" folder
 3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walk thru how to customize an icon for that shortcut.
 
 
