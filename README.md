@@ -17,7 +17,7 @@
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 <br>
-To watch the "Overview Tutorial" below, right-click it and select "open link in new tab".<br>
+To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
 <a href="https://youtu.be/e4_ZfRGVlc4">
 <img src="img/img_27_thumbnail_overview.png">
 </a>
@@ -101,6 +101,12 @@ So, why would you want to download and use this Microsoft Access application tyi
 
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"> </a>
 ### 2. Installation
+To watch Section #2 "Installation", right-click the link below and select "open link in new tab".<br>
+<a href="https://youtu.be/kfgvQrTF7vU">
+<img src="img/img_28_thumbnail_download_deploy.png">
+</a>
+<br>
+
 
 #### 2.1 Download
 To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
