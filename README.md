@@ -441,7 +441,14 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 
 
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
-### 6. Upgrade/Import
+### 6. Upgrade & Import
+To watch Section #6 "Upgrade & Import", right-click the link below and select "open link in new tab".<br>
+<a href="https://youtu.be/VwULOrZLTUE">
+<img src="img/img_29_thumbnail_upgrade_import.png">
+</a>
+<br>
+
+
 #### 6.1 Introduction
 <img align="right" src="img/img_23_import_button_on_toolbarX.png" width="456">
 Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTimeTabulator.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
