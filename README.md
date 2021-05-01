@@ -18,9 +18,11 @@
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 <br>
 To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
-<a href="https://youtu.be/e4_ZfRGVlc4">
-<img style="border:10px outset silver;" src="img/img_27_thumbnail_overview.png">
-</a>
+<kbd>
+  <a href="https://youtu.be/e4_ZfRGVlc4">
+  <img src="img/img_27_thumbnail_overview.png">
+  </a>
+</kbd>
 <br>
 <br>
 
