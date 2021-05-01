@@ -444,7 +444,7 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 ### 6. Upgrade & Import
 To watch Section #6 "Upgrade & Import", right-click the link below and select "open link in new tab".<br>
 <a href="https://youtu.be/VwULOrZLTUE">
-<img src="img/img_29_thumbnail_upgrade_importX.png">
+<img src="img/img_29_thumbnail_upgrade_importX2.png">
 </a>
 <br>
 
