@@ -23,7 +23,6 @@ To watch the "Overview Tutorial" below, right-click it and select "open link in 
 <img src="img/img_27_thumbnail_overview.png">
 </a>
 <br>
-<br>
 
 
 ***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
@@ -35,7 +34,6 @@ To watch the "Overview Tutorial" below, right-click it and select "open link in 
 <kbd>
   <img src="img/img_01_showcase_app_features.png" width="1123">
 </kbd>
-<br>
 <br>
 <br>
 
