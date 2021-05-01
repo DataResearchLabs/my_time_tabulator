@@ -6,7 +6,7 @@
 [![Latest Release](https://img.shields.io/badge/Latest_Release-4.02.44314-blue)](https://github.com/DataResearchLabs/my_task_time_tracker/tree/main/download)
 [![YouTube](https://img.shields.io/badge/YouTube-DataResearchLabs-brightgreen)](http://www.DataResearchLabs.com)
 
-
+## Overview
 * **What**: A free, lean task and time tracker with a simple user interface and several reports for analysis.<br>
 * **When**: Use it daily.  Use it consistently.  It literally takes just 3 to 4 minutes per day.<br>
 * **Who**: Built as a standalone tool for individual contributors working from a desktop or laptop computer.<br>
@@ -16,8 +16,14 @@
 * **Source Code**: is open-source. Either (a) close all forms and press F11, **OR** (b) hold down the Shift-key when you open the application to access ALL source code.
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
-
-
+<br>
+<br>
+To watch the "Overview Tutorial" below, right-click it and select "open link in new tab".<br>
+<a href="https://youtu.be/e4_ZfRGVlc4">
+<img src="img/img_27_thumbnail_overview.png">
+</a>
+<br>
+<br>
 
 <kbd>
   <img src="img/img_01_showcase_app_features.png" width="1123">
