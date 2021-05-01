@@ -447,11 +447,17 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTimeTabulator.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
 
 
-#### 6.1 How To Import
+#### 6.2 Preparations Steps
 1. IMPORTANT! The first step you do is make a backup copy of your current "MyTimeTabulator.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
-2. IMPORTANT! The next step you do is rename your current "MyTimeTabulator.accdb" file so to something like "MyTimeTabulator_OLD.accdb" (suffix **\_OLD** tacked on to filename.<br>
+2. IMPORTANT! The next step you do is rename your current "MyTimeTabulator.accdb" file so to something like "MyTimeTabulator_OLD.accdb" (suffix **\_OLD** tacked on to filename<br>
+
+
+#### 6.3 Upgrade Steps
 3. Next download the latest "MyTimeTabulator.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)<br>
 4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTimeTabulator_OLD.accdb" exists<br>
+
+
+#### 6.4 Import Steps
 5. Open the new (empty) file "MyTimeTabulator.accdb".  Notice that the "Import" button is enabled.<br>
 6. Click the "Import" button.<br>  
 7. Click 'Yes" to the prompt because you are indeed certain that you want to import data from an older copy.<br>
