@@ -17,18 +17,17 @@
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 <br>
-<br>
 To watch the "Overview Tutorial" below, right-click it and select "open link in new tab".<br>
 <a href="https://youtu.be/e4_ZfRGVlc4">
 <img src="img/img_27_thumbnail_overview.png">
 </a>
+<br>
 <br>
 
 
 ***If you like this tool, be sure to click the "Star" button above in GitHub.*** <br>
 <br>
 ***Also, be sure to visit or subscribe to our YouTube channel*** www.DataResearchLabs.com!<br>
-<br>
 <br>
 
 <kbd>
