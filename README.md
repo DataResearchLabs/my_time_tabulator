@@ -106,7 +106,7 @@ So, why would you want to download and use this Microsoft Access application tyi
 To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
 1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)
 2. Then click the download button
-3. Then cilck the 'Open Folder' button (or '...' button) at browser Open File popup
+3. Then click the 'Open Folder' button (or '...' button) at browser Open File popup
 4. Then copy the "MyTimeTabulator.accdb" file
 
 
