@@ -117,18 +117,19 @@ To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this 
 <br>
 
 
-<a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
-### 3. Getting Started, Configure the Metadata
-#### 3.1 First Open / Security Notice
+#### 2.3 First Open / Security Notice
 The first time you open MyTimeTabulator.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
   * The screenshot below shows the security warning message (blue dot #1).<br>
   * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
   * Once done, you will not be asked again, unless you move the MyTimeTabulator.accdb file into a different folder.<br>
 <img src="img/img_02_first_load_security_promptX.png" width="794">
 <br>
+<br>
 
 
-#### 3.2 "Landing Page" = Main Form
+<a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
+### 3. Getting Started, Configure the Metadata
+#### 3.1 "Landing Page" = Main Form
 The "landing page" that first pops up happens to also be the main page where you will do all your time entries and from which you can launch various popup metadata entry forms, run analysis reports, etc.  The form layout is:
 <img align="right" src="img/img_03_landing_form_emptyX.png" width="544">
 1. **Form Header**: At blue dot #1 contains the application name, version, and DataResearchLabs logo.  It also contains your company name and your name which we will fill out soon.<br>
@@ -139,7 +140,7 @@ The "landing page" that first pops up happens to also be the main page where you
 <br>
 
 
-#### 3.3 Setup Properties
+#### 3.2 Setup Properties
 Before you can enter any tasks and times, you will need to enter metadata.  Start with the Properties metadata:
 <img align="right" src="img/img_04_edit_properties.png" width="463">
 1. **Open**: Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
@@ -148,7 +149,7 @@ Before you can enter any tasks and times, you will need to enter metadata.  Star
 <br>
 
 
-#### 3.4 Setup Projects
+#### 3.3 Setup Projects
 Next, enter some Project metadata:
 <img align="right" src="img/img_05_edit_projects.png" width="508">
 1. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
@@ -167,7 +168,7 @@ Next, enter some Project metadata:
 <br>
  
 
-#### 3.5 Setup Categories
+#### 3.4 Setup Categories
 Next, enter some Project metadata:
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
 1. **Open**: Click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
@@ -195,7 +196,7 @@ Next, enter some Project metadata:
 <br>
 
 
-#### 3.6 Setup Tasks
+#### 3.5 Setup Tasks
 Next, enter some Tasks:<br>
 <img src="img/img_07_edit_tasks.png" width="617">
 1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screens above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
