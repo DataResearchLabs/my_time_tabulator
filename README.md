@@ -19,7 +19,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e4_ZfRGVlc4" target="_blank">
- <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="IMAGE ALT TEXT HERE" width="200" />
+ <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
 </a>
 <br>
 <br>
@@ -102,8 +102,8 @@ So, why would you want to download and use this Microsoft Access application tyi
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"> </a>
 ### 2. Installation
 To watch Section #2 "Installation", right-click the link below and select "open link in new tab".<br>
-<a href="https://youtu.be/kfgvQrTF7vU">
-<img src="img/img_28_thumbnail_download_deploy.png">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kfgvQrTF7vU" target="_blank">
+ <img src="http://img.youtube.com/vi/kfgvQrTF7vU/0.jpg" alt="Installation Video" width="200" />
 </a>
 <br>
 
@@ -443,8 +443,8 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
 ### 6. Upgrade & Import
 To watch Section #6 "Upgrade & Import", right-click the link below and select "open link in new tab".<br>
-<a href="https://youtu.be/VwULOrZLTUE">
-<img src="img/img_29_thumbnail_upgrade_importX2.png">
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VwULOrZLTUE" target="_blank">
+ <img src="http://img.youtube.com/vi/VwULOrZLTUE/0.jpg" alt="Video Upgrade & Import" width="200" />
 </a>
 <br>
 
