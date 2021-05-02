@@ -17,7 +17,7 @@
 * **License**: Creative Commons Zero, effectively public domain.  Free to use.  Free to copy.  Free to alter.  Free to distribute.<br>
 Am happy if you find this tool useful and visit my [YouTube site](http://www.dataresearchlabs.com/) for training and additional tools.<br>
 <br>
-To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
+***Video "Overview Tutorial":***<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e4_ZfRGVlc4" target="_blank">
  <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="Overview Video" width="200" />
 </a>
