@@ -53,8 +53,8 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 
 
 <a id="introduction" class="anchor" href="#introduction" aria-hidden="true"> </a>
-### 1. Introduction 
-#### 1.1 Ten Reasons Why You Should Track and Analyze Your Time...
+## 1. Introduction 
+### 1.1 Ten Reasons Why You Should Track and Analyze Your Time...
 
 
 1. **Monitoring Value**: If time is more valuable than money, why do so few track it relative to tracking money?
@@ -95,7 +95,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 
 
-#### 1.2 How Best to Track and Analyze Where Your Time Goes...
+### 1.2 How Best to Track and Analyze Where Your Time Goes...
 Use a simple software tool to track and analyze your time.  There are a lot of [excellent online tools](https://clockify.me/best-time-tracking-apps) out there, including Clockify, TogglTrack, Harvest, Hubstaff, RescueTime, TimeDoctor, Timecamp, Timely, and Everhour.   All cost money except for those having a base free option with limited functionality.  Many of these tool work on your cell phone and are accessible from anywhere on the web.  All great features.<br>
 
 So, why would you want to download and use this Microsoft Access application tying you to a PC?  In short, because it is 100% free, simple, full-featured, and emphasizes both the tracking and the analyzing parts of the question.<br>
@@ -103,17 +103,8 @@ So, why would you want to download and use this Microsoft Access application tyi
 
 
 <a id="installation" class="anchor" href="#installation" aria-hidden="true"> </a>
-### 2. Installation
-***Video #2 "Installation Tutorial"***<br>
-<kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=kfgvQrTF7vU" target="_blank">
- <img src="http://img.youtube.com/vi/kfgvQrTF7vU/0.jpg" alt="Installation Video" width="200" />
-</a>
-</kbd>
-<br>
-
-
-#### 2.1 Download
+## 2. Installation
+### 2.1 Download
 To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this repository's "/download" folder,
 1. [Right-click here then select "Open in New Tab"](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)
 2. Then click the download button
@@ -121,25 +112,34 @@ To download the "My Time Tabulator" tool (Microsoft Access 365 ACCDB) from this 
 4. Then copy the "MyTimeTabulator.accdb" file
 
 
-#### 2.2 Deploy
+### 2.2 Deploy
 1. Identify or create a "target install" folder somewhere on your computer.  For example: "c:\tools\my_time_tabulator".
 2. Paste a copy of the downloaded "MyTimeTabulator.accdb" into the "target install" folder
 3. Optionally create a shortcut on your desktop, or your Windows start menu or your system tray for quick access.  If you do, in one of the videos I will walk thru how to customize an icon for that shortcut.
 
 
-#### 2.3 First Open / Security Notice
+### 2.3 First Open / Security Notice
 The first time you open MyTimeTabulator.accdb, Microsoft Access security is going to pop a warning message that "some active content disabled", meaning that VBA code will not run and thus the application will not function properly.
   * The screenshot below shows the security warning message (blue dot #1).<br>
   * Go ahead and click the "Enable Content" button (blue dot #2) to allow VBA code to execute and open the application with complete functionality.<br>
   * Once done, you will not be asked again, unless you move the MyTimeTabulator.accdb file into a different folder.<br>
 <img src="img/img_02_first_load_security_promptX.png" width="794">
 <br>
+
+
+***Video #2 "Installation Tutorial"***<br>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=kfgvQrTF7vU" target="_blank">
+ <img src="http://img.youtube.com/vi/kfgvQrTF7vU/0.jpg" alt="Installation Video" width="200" />
+</a>
+</kbd>
+<br>
 <br>
 
 
 <a id="gettingStarted" class="anchor" href="#gettingStarted" aria-hidden="true"> </a>
-### 3. Getting Started, Configure the Metadata
-#### 3.1 "Landing Page" = Main Form
+## 3. Getting Started, Configure the Metadata
+### 3.1 "Landing Page" = Main Form
 The "landing page" that first pops up happens to also be the main page where you will do all your time entries and from which you can launch various popup metadata entry forms, run analysis reports, etc.  The form layout is:
 <img align="right" src="img/img_03_landing_form_emptyX.png" width="544">
 1. **Form Header**: At blue dot #1 contains the application name, version, and DataResearchLabs logo.  It also contains your company name and your name which we will fill out soon.<br>
@@ -150,7 +150,7 @@ The "landing page" that first pops up happens to also be the main page where you
 <br>
 
 
-#### 3.2 Setup Properties
+### 3.2 Setup Properties
 Before you can enter any tasks and times, you will need to enter metadata.  Start with the Properties metadata:
 <img align="right" src="img/img_04_edit_properties.png" width="463">
 1. **Open**: Start by clicking the "Properties" button to popup the "Edit Properties" dialog.  This is a simple name-value pair dialog.<br>
@@ -159,7 +159,7 @@ Before you can enter any tasks and times, you will need to enter metadata.  Star
 <br>
 
 
-#### 3.3 Setup Projects
+### 3.3 Setup Projects
 Next, enter some Project metadata:
 <img align="right" src="img/img_05_edit_projects.png" width="508">
 1. **Open**: Click the "Projects" button to popup the "Edit Projects" dialog.  This also is a simple name-value pair dialog.<br>
@@ -178,7 +178,7 @@ Next, enter some Project metadata:
 <br>
  
 
-#### 3.4 Setup Categories
+### 3.4 Setup Categories
 Next, enter some Project metadata:
 <img align="right" src="img/img_06_edit_categoriesX.png" width="581">
 1. **Open**: Click the "Categories" button to popup the "Edit Categories" dialog. This also is a simple name-value pair dialog.<br>
@@ -206,7 +206,7 @@ Next, enter some Project metadata:
 <br>
 
 
-#### 3.5 Setup Tasks
+### 3.5 Setup Tasks
 Next, enter some Tasks:<br>
 <img src="img/img_07_edit_tasks.png" width="617">
 1. **Open**: Click the "Tasks" button to popup the "Edit Tasks" dialog.  This is more complex than the edit screens above because there is a project to filter tasks, and more than just a name-value pair to enter per row.<br>
@@ -237,12 +237,13 @@ Next, enter some Tasks:<br>
     * "@T2-NPM: Non-Project Meetings", and <br>
     * "@T3-NPT: Non-Project Training", <br>
 * There is a hidden Task "--BREAK--" that you cannot edit or remove.  It exists for marking the start of Lunch time, or the start of a short break, and to mark the end of your work day.  The duration column is never calculated for a "break" row, but the "break" row is used to derive the end date/time of the prior task.  Thus, entering "break" rows is important for the system to properly calculate task durations.<br>
-
+<br>
+<br>
 
 
 <a id="dailyTimeEntry" class="anchor" href="#dailyTimeEntry" aria-hidden="true"> </a>
-### 4. "Daily Time Entry" Sheet
-#### 4.1 Select Date
+## 4. "Daily Time Entry" Sheet
+### 4.1 Select Date
 From the main task and time entry screen, the first thing you need to do is select a date.  Today's date is the default, so typically you do not need to change anything.  In the screenshot to the right, the various date selectors are tagged and defined as follows:<br>
 <img align="right" src="img/img_08_date_selectors.png" width="257">
 
@@ -258,8 +259,8 @@ From the main task and time entry screen, the first thing you need to do is sele
 <br>
 
 
-#### 4.2 Enter Tasks and Times
-##### 4.2.1 First Row of a Day
+### 4.2 Enter Tasks and Times
+#### 4.2.1 First Row of a Day
 <img align="right" src="img/img_09_time_entry_before.png" width="521">
 <img align="right" src="img/img_10_time_entry_after.png" width="521">
 
@@ -270,7 +271,7 @@ The entry form starts off blank each day.  Go ahead and select a TaskName from t
 * **Change=Possible**: You can change the hour and minute dropdown values.
 * **Duration=Blank**: Notice that duration (blue dot#3) is blank; that is because it takes both a start **and** an end time to calculate a duration (two tasks).
 
-##### 4.2.2 Second Row of a Day
+#### 4.2.2 Second Row of a Day
 <img align="right" src="img/img_11_time_entry_row2.png" width="521">
 
 
@@ -280,7 +281,7 @@ Now, enter a second task and time on the second row, using the current time and 
 * **24 Hour**: Notice that the time drop down contains the hours 00 thru 23, not 00-12 with AM and PM.  This was in part for efficiency (one less column to enter for each row) and partly to make coding easier.  I originally had AM or PM in a drop down, but got to the report modifications and realized it was just not worth the complexity and extra effort.  **TIP** - Just add 12 to arrive at the appropriate military time (example: 5PM + 12 = 17-hundred hours; or 10PM +12 = 22-hundred hours).<br>
 
 
-##### 4.2.3 Special "--BREAK--" Task
+#### 4.2.3 Special "--BREAK--" Task
 <img align="right" src="img/img_12_time_entry_breaks.png" width="521">
 
 
@@ -289,7 +290,7 @@ So how do you handle lunch breaks, and the End-Of-Day marker that sets the end t
 <br>
 
 
-#### 4.3 Filter to Hide or Show Tasks in Dropdown
+### 4.3 Filter to Hide or Show Tasks in Dropdown
 <img align="right" src="img/img_13_task_dropdown_filter_buttons.png" width="466">
 
 After many months, you will have created dozens if not a hundred or more tasks.  That becomes cumbersome to scroll thru when making task selections.  Thus, wouldn't it be nice if the tasks in the drop could be filtered by the column value at blue dot#1?  Well, happily blue dot#2 shows three such filter buttons:
@@ -300,7 +301,7 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 <br>
 
 
-#### 4.4 Save Daily Entry Ledger
+### 4.4 Save Daily Entry Ledger
 <img align="right" src="img/img_14_save_daily_entry.png" width="262">
 
 
@@ -309,7 +310,7 @@ After many months, you will have created dozens if not a hundred or more tasks. 
 <br>
 
 
-#### 4.5 Weekly Time Card
+### 4.5 Weekly Time Card
 To view a Weekly Time Card report, first select a day having tasks and times populated during a given week of interest.  Then click the "Time Card" button on the toolbar.  The following report will popup.<br>
 Numbered blue bullet points below identify the various report elements.
 <img align="right" src="img/img_15_weekly_time_card.png" width="644">
@@ -326,18 +327,19 @@ Numbered blue bullet points below identify the various report elements.
 
 **Suggestion**: Occasionally, as needed, screenshot just the table section of this report and paste into a weekly status email to your manager or project team.  You could also IM or email a screenshot as a scrum attendance substitute when appropriate.<br>
 <br>
+<br>
 
 
 <a id="reports" class="anchor" href="#reports" aria-hidden="true"> </a>
-### 5. Reports
-#### 5.1 Opening Report Wizard
+## 5. Reports
+### 5.1 Opening Report Wizard
 To view reports, start by clicking the "Reports" button on the main screen's toolbar.  That will pop-up the Run Report Wizard consisting of two steps.<br>
 
 
 <img align="right" src="img/img_16_report_dlg_step1.png" width="475">
 
 
-#### 5.2 Step #1 - Select Report
+### 5.2 Step #1 - Select Report
 * **Dot #1**: Currently, there are four reports to select from in the list box<br>
 * **Dot #2**: If you want to filter the data in the report, click the "Next" button<br>
 * **Dot #3**: If you want to run the report against all data across all time, click the "Run Report" button<br>
@@ -347,7 +349,7 @@ To view reports, start by clicking the "Reports" button on the main screen's too
 <img align="right" src="img/img_17_report_dlg_step2.png" width="475">
 
 
-#### 5.3 Step #2 - Select Filter
+### 5.3 Step #2 - Select Filter
 * **Dot #1**: Select option button "Filter Records", or leave default value "Show All Records" selected<br>
 * **Dot #2**: Select a saved filter that you previously created in the Filter Builder (how to build discussed below in section 5.3)<br>
 * **Dot #3**: Click "Run Report" button<br>
@@ -355,7 +357,7 @@ To view reports, start by clicking the "Reports" button on the main screen's too
 <br><br>
 
 
-#### 5.3 Build Filters
+### 5.3 Build Filters
 To edit or add a filter, click the "Build Filter" button on Step #2 of the Report Wizard. That will pop-up the Build Filters dialog box to the right.  Each element on the form is tagged with a blue dot corresponding  to the number list below.
 
 <img align="right" src="img/img_18_build_filter.png" width="476">
@@ -378,7 +380,7 @@ To edit or add a filter, click the "Build Filter" button on Step #2 of the Repor
 <br>
 
 
-#### 5.6 "R01 - Rollup by Category" Report Interpretation Guide
+### 5.6 "R01 - Rollup by Category" Report Interpretation Guide
 The "Rollup by Category" report is a short (1 row per category) summary of where the time went as measured by the Category buckets you create.  In the example below, the category choice was probably not all that great.  See the <a href="#introduction">Introduction</a> for a better way to layout your categories (red-ilght/green-light).<br>
 <img src="img/img_19_report1_rollup_categoryX.png" width="726">
 
@@ -394,7 +396,7 @@ The report elements identified by blue dots in the screenshot above are as follo
 <br>
 
 
-#### 5.4 "R02 - Rollup by Project" Report Interpretation Guide
+### 5.4 "R02 - Rollup by Project" Report Interpretation Guide
 The "Rollup by Project" report is a short (1 row per project) summary of where the time went measured by Project.<br>
 <img src="img/img_20_report2_rollup_project.png" width="726">
 
@@ -408,7 +410,7 @@ The report elements identified by blue dots in the screenshot above are as follo
 <br>
 
 
-#### 5.5 "R03 - Gannt Chart" Report Interpretation Guide
+### 5.5 "R03 - Gannt Chart" Report Interpretation Guide
 Sometimes, you just need to layout the projects and all their tasks in a nice "Gannt Chart" report over time.  It tells the story of what happened and how things went.<br>
 <img src="img/img_21_report3_gannt.png" width="891">
 
@@ -424,7 +426,7 @@ The report elements identified by blue dots in the screenshot above are as follo
 <br>
 
 
-#### 5.6 "R04 - Task by Project" Report Interpretation Guide
+### 5.6 "R04 - Task by Project" Report Interpretation Guide
 The "Task by Project" report is a long and detailed (1 row per task).  Tasks are grouped under their respective Projects.  Totals are rolled up at the bottom of each project.<br>
 <img src="img/img_22_report4_task_by_project.png" width="726">
 
@@ -446,32 +448,23 @@ The "Task by Category" report is virtually identical to the "Task by Project" in
 
 
 <a id="import" class="anchor" href="#import" aria-hidden="true"> </a>
-### 6. Upgrade & Import
-***Video #3 "Upgrade & Import"***<br>
-<kbd>
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=VwULOrZLTUE" target="_blank">
- <img src="http://img.youtube.com/vi/VwULOrZLTUE/0.jpg" alt="Video Upgrade & Import" width="200" />
-</a>
-</kbd>
-<br>
-
-
-#### 6.1 Introduction
+## 6. Upgrade & Import
+### 6.1 Introduction
 <img align="right" src="img/img_23_import_button_on_toolbarX.png" width="456">
 Although infrequent, occasionally a new version of "My Time Tabulator" is released.  If you simply download and start using the new "MyTimeTabulator.accdb", all of your data would be missing.  The Import button on the main toolbar, circled in the screenshot to the right, addresses this issue by importing all user data tables into the new application copy.<br>
 
 
-#### 6.2 Preparations Steps
+### 6.2 Preparations Steps
 1. IMPORTANT! The first step you do is make a backup copy of your current "MyTimeTabulator.accdb" file into a different folder as a precaution (so you can always rollback and use it again, as-is.<br>
 2. IMPORTANT! The next step you do is rename your current "MyTimeTabulator.accdb" file so to something like "MyTimeTabulator_OLD.accdb" (suffix **\_OLD** tacked on to filename<br>
 
 
-#### 6.3 Upgrade Steps
+### 6.3 Upgrade Steps
 3. Next download the latest "MyTimeTabulator.accdb" from the [DataResearchLabs GitHub site](https://github.com/DataResearchLabs/my_task_time_tracker/blob/main/download/MyTimeTabulator.accdb)<br>
 4. Open in Folders  >  File Copy  >  File Paste into the same folder where your renamed "MyTimeTabulator_OLD.accdb" exists<br>
 
 
-#### 6.4 Import Steps
+### 6.4 Import Steps
 5. Open the new (empty) file "MyTimeTabulator.accdb".  Notice that the "Import" button is enabled.<br>
 6. Click the "Import" button.<br>  
 7. Click 'Yes" to the prompt because you are indeed certain that you want to import data from an older copy.<br>
@@ -482,8 +475,18 @@ Although infrequent, occasionally a new version of "My Time Tabulator" is releas
 <br>
 
 
+***Video #3 "Upgrade & Import"***<br>
+<kbd>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=VwULOrZLTUE" target="_blank">
+ <img src="http://img.youtube.com/vi/VwULOrZLTUE/0.jpg" alt="Video Upgrade & Import" width="200" />
+</a>
+</kbd>
+<br>
+<br>
+
+
 <a id="about" class="anchor" href="#about" aria-hidden="true"> </a>
-### 7. "About" Worksheet
+## 7. "About" Worksheet
 <img align="right" src="img/img_24_aboutX.png" width="427">
 The "About" worksheet accomplishes a few goals. It informs the user...<br>
 
@@ -497,8 +500,8 @@ I hope it helps you in your company and makes you more productive.  I am happy f
 
 
 <a id="advancedTopics" class="anchor" href="#advancedTopics" aria-hidden="true"> </a>
-### 8. Advanced Tips & Tricks
-#### 8.1 Rollup the Access Toolbar 
+## 8. Advanced Tips & Tricks
+### 8.1 Rollup the Access Toolbar 
 "Rollup the Microsoft Access Toolbar" for a cleaner user interface experience.  Look at the before (top) vs. after (bottom) views below to understand why you should click the button.<br>
 <br>
 
@@ -512,7 +515,7 @@ Notice minimal clutter.  Click the "Home" menu item at Blue Dot #2 to re-expand 
 <br>
 
 
-#### 8.2 - Routinely backup your .ACCDB file
+### 8.2 - Routinely backup your .ACCDB file
 It is a good practice to routinely backup your .ACCDB file.  
 
 
@@ -527,16 +530,16 @@ It is a good practice to routinely backup your .ACCDB file.
 
 
 <a id="wrapup" class="anchor" href="#wrapup" aria-hidden="true"> </a>
-### 9. Wrap Up
-#### 9.1 Thank You
+## 9. Wrap Up
+### 9.1 Thank You
 Thank you very much for reading all the way down to the end of the documentation.  Time is valuable and ever more scarce in today's busy world.  Few people make it this far.  If you did, I hope that means you found value in this tool.  I hope it makes you more productive.  I am happy if you adopt the application then change and evolve it to meet your needs (simply open the .ACCDB file with the Shift-Key held down to access all the source code).  I am happy if you fork this repository and build your own.  I am happy and would roll-in to the master branch any changes you might make from which others may benefit. Thank you for your use and support.<br>
 
 
-#### 9.2 YouTube Training & Resources
+### 9.2 YouTube Training & Resources
 If you like this tool, please visit and subscribe to the YouTube site at http://www.dataresearchlabs.com and check out video training for this "product" as well as other related tools and data or testing processes.<br>
 
 
-#### 9.3 "My Time Tabulator" History
+### 9.3 "My Time Tabulator" History
 "My Time Tabulator" has been a work in progress, arriving at version 4.02.xx over the last two plus decades.<br>
 
 * **Ver 1.x** - At some point in 1994 I built my first Time Tracking app in FoxPro for school.  I no longer have access to any of that.<br>
