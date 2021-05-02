@@ -19,7 +19,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=e4_ZfRGVlc4" target="_blank">
- <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" border-color:"silver"/>
+ <img src="http://img.youtube.com/vi/e4_ZfRGVlc4/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" />
 </a>
 
 
