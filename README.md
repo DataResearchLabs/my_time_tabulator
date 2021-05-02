@@ -19,7 +19,7 @@ Am happy if you find this tool useful and visit my [YouTube site](http://www.dat
 <br>
 To watch the "Overview Tutorial", right-click the link below and select "open link in new tab".<br>
 <a href="https://youtu.be/e4_ZfRGVlc4" target="_blank">
-<img src="https://i9.ytimg.com/vi_webp/e4_ZfRGVlc4/mqdefault.webp?time=1619923800000&sqp=CNimuIQG&rs=AOn4CLCgCkUbAqBxwvkPz2fey0wuqnRJ7A" alt="Overview Tutorial Video" width="240" height="180" border="10" />
+<img src="https://i9.ytimg.com/vi_webp/e4_ZfRGVlc4/mqdefault.webp?time=1619923800000&sqp=CNimuIQG&rs=AOn4CLCgCkUbAqBxwvkPz2fey0wuqnRJ7A" alt="Overview Tutorial Video" width="240" border="50" />
 </a>
 <br>
 <br>
