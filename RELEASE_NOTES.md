@@ -3,6 +3,11 @@
 # My Time Tabulator (MTT) 
 
 
+<ins>**V4.02.44410  -  2021.08.02**</ins><br>
+1. CHANGE - Vertical scrollbar was not properly appearing when task edit screen grew beyond one window.<br>
+<br>
+
+
 <ins>**V4.02.44314  -  2021.04.28**</ins><br>
 1. CHANGE - Changed application name to make it more unique so that others can search and find it, and I can track it easier.  Old name = "My Time Tracker", then for about 2 weeks "My Task Time Tracker", and now landed on "My Time Tabulator" on eve of release.<br>
 <br>
