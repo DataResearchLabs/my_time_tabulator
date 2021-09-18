@@ -24,7 +24,7 @@
 <a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
 **A**: Because Microsoft Access is simple...<br>
-* **Rapid Development**: Because it is less code and faster to build a simple standalone app in MS-Access versus the extra effort and additional layers to build and make widely deployable a web app.<br>
+* **Rapid Development**: Because it is less code and faster to build a simple standalone app in MS-Access versus the extra effort and additional layers to build and make a web app.<br>
 * **Less Code**: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
 * **Already On Desktops**: Because it is usually already on every corporate desktop (most large companies provide Microsoft Access as aprt of the Office suite)<br>
 * **No Budget Battle**: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
