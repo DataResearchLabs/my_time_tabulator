@@ -24,17 +24,17 @@
 <a id="whyMicrosoftAccess" class="anchor" href="#whyMicrosoftAccess" aria-hidden="true"> </a>
 ### Q4: Why on earth would you code something in Access?
 **A**: Because Microsoft Access is simple...<br>
-* **Rapid Development**: Because it is less work and faster for me to build something as a standalone app then go thru all the effort and extra layers to build and make widely deployable a web app<br>
+* **Rapid Development**: Because it is less code and faster to build a simple standalone app in MS-Access versus the extra effort and additional layers to build and make widely deployable a web app.<br>
 * **Less Code**: Because out of the box it comes with a rich UI that I do not need to code myself (grids, subforms, export/imports, reports, etc.)<br>
 * **Already On Desktops**: Because it is usually already on every corporate desktop (most large companies provide Microsoft Access as aprt of the Office suite)<br>
 * **No Budget Battle**: Because it is standalone/desktop avoiding budget and resource waffling (no need to purchase a webserver, or require a DBA's time, or require IT to deploy and configure it)
 * **No Security Battle**: Because most corporate office security departments block freeware .EXE file downloads nowadays, but Excel and Access are allowed and safe (so long as folks peruse the source code to ensure nothing bad in there).<br>
 * **No Dependencies**: Because there are no external dependencies (just one .ACCDB file to copy-paste-and-run)
 * **Democratization**: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
-* **Long Life**: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
-* **Low Maintenance**: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+* **Long Life**: Because it lasts...I've built dozens of little internal use Access utilities since 1994 for my various employers<br>
+* **Low Maintenance**: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back up MS-Access apps that store data so you don't lose it)<br>
 * **Bias**: Yes, I am "nostalgically biased"...having coded in everything from c# to Python to Java to Visual Basic with some Ada and Fortran in there too...but my fondest memories are way back in the beginning doing VBA in Access in the early- to mid-1990's when Access 1.1 and 2.0 had just arrived on the scene displacing dBase and competing with FoxPro.<br>
-* **Prototype Requirements**:  I'd even argue the case can be made that for new, small, internal projects that business analysts should run a pilot to prototype screen, report, and in some cases even table designs in MS-Access. Once the business logic is refined and edge cases surfaced, only then hand it over as the defacto requirements for a software engineering team to completely re-write using professional development languages with architecture and scalability in mind.<br>
+* **Prototype Requirements**:  I'd even argue the case can be made that busines analysts should run a pilot for new, small, internal projects to prototype screen, report, and in some cases even table designs in MS-Access. Once the business logic is refined and edge cases surfaced, only then hand it over as the defacto requirements for a software engineering team to completely re-write using professional development languages with architecture and scalability in mind.<br>
 
 
 **Opinion**: Industry bias towards Microsoft Access should not blind us to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
