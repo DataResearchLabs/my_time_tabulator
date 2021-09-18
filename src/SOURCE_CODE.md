@@ -33,9 +33,11 @@
 * **Democratization**: Because regular people (non-developers) can access and use this source code in Microsoft Access VBA<br>
 * **Long Life**: Because it lasts...I have been using some form of this tool since FoxPro in 1993/1994<br>
 * **Low Maintenance**: Because the platform is stable and just keeps on working...some days modern tech drives me nuts, all the WASTE due to change-churn...sometimes it is just nice to have a little utility that keeps on working year after year without having to constantly feed it time and attention (although you should periodically back it up so you don't lose data)<br>
+* **Bias**: Yes, I am "nostalgically biased"...having coded in everything from c# to Python to Java to Visual Basic with some Ada and Fortran in there too...but my fondest memories are way back in the beginning doing VBA in Access in the early- to mid-1990's when Access 1.1 and 2.0 had just arrived on the scene displacing dBase and competing with FoxPro.<br>
+* **Prototype Requirements**:  I'd even argue the case can be made that for new, small, internal projects that business analysts should run a pilot to prototype screen, report, and in some cases even table designs in MS-Access. Once the business logic is refined and edge cases surfaced, only then hand it over as the defacto requirements for a software engineering team to completely re-write using professional development languages with architecture and scalability in mind.<br>
 
 
-**Opinion**: Industry bias towards Microsoft Access should not blind folks to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
+**Opinion**: Industry bias towards Microsoft Access should not blind us to its strengths.  There is a right time and a right place for Access applications.  This utility is one such instance.
 <br>
 <br>
 
